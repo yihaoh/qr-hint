@@ -1,11 +1,11 @@
 # qr-hint
 
-This repository contain the source code for qr-hint, as well as a full version of the paper (same main body with extra appendix).
+This repository contains the source code for qr-hint, as well as a full version of the paper (same main body with extra appendix).
 
 ## Note
 1. There is a typo in `Lemma 5.1` in the submitted version of the paper (the viability check should be equivalence between two formula as stated at the beginning of section 5). This typo is corrected in the full version under this repository. We sincerely apologize for any inconvenience and confusion.
-2. Please do not look into `global_var_beers.py`, `global_var_dblp.py` and `global_var_tpc.py` as they are importing a Java library developed by the authors, andh the Java package contains information that might leak authors' identity.
-3. The Quine-McCluskey implementations are borrowed from this [GitHub repo](https://github.com/Kumbong/QuineMcCluskey) as well as this [repo](https://github.com/prekageo/optistate/tree/master). The maintainers of these repositories are not affliated with the authors of the paper in any way.
+2. Please do not look into `global_var_beers.py`, `global_var_dblp.py`, and `global_var_tpc.py` as they are importing a Java library (`sqlanalyzer.jar`) developed by the authors, and the Java package contains information that might leak authors' identity.
+3. The Quine-McCluskey implementations are borrowed from this [GitHub repo](https://github.com/Kumbong/QuineMcCluskey) as well as this [repo](https://github.com/prekageo/optistate/tree/master). The maintainers of these repositories are not affiliated with the authors of the paper in any way.
 
 ## Setup
 To run the demo code, please make sure you have a running PostgreSQL database with a user named "postgres" (should be default) and password "postgres". If you are using Docker, please feel free to check out what we have prepared under `db` directory. It is a classical beers database instance (same one as the running example in the paper).
