@@ -1,0 +1,5 @@
+.DS_Store
+*.xlsx
+*.png
+__pycache__
+.ipynb_checkpoints
