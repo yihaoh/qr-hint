@@ -1,0 +1,9 @@
+{
+    "id": "tpc-4",
+    "q1": "select o_orderpriority, count(*) as order_count from orders, lineitem where o_orderdate >= 20181010 and o_orderdate < 20200314 + 30 and l_orderkey = o_orderkey and l_commitdate < l_receiptdate group by o_orderpriority order by o_orderpriority LIMIT 1",
+    "q2": "select o_orderpriority, count(*) as order_count from orders, lineitem where o_orderdate < 20160510 and o_orderdate < 20200314 + 30 and l_orderkey = o_orderkey and l_commitdate > l_receiptdate group by o_orderpriority order by o_orderpriority LIMIT 1",
+    "repair_sites": ["o_orderdate < 20160510", "l_commitdate > l_receiptdate"],
+    "fixes": ["o_orderdate >= 20181010", "l_commitdate < l_receiptdate"],
+    "cost": 0.67,
+    "unique_preds": 6
+}

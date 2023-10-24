@@ -1,0 +1,41 @@
+{
+    "original": "select supp_nation, cust_nation, l_year, sum(volume) as revenue from ( select n1.n_name as supp_nation, n2.n_name as cust_nation, extract(year from l_shipdate) as l_year, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey = o_custkey and s_nationkey = n1.n_nationkey and c_nationkey = n2.n_nationkey and ( (n1.n_name = ':1' and n2.n_name = ':2') or (n1.n_name = ':2' and n2.n_name = ':1') ) and l_shipdate between date '1995-01-01' and date '1996-12-31' ) as shipping group by supp_nation, cust_nation, l_year order by supp_nation, cust_nation, l_year",
+    "q1": "select n1.n_name as supp_nation, n2.n_name as cust_nation, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey = o_custkey and c_nationkey = n2.n_nationkey and ( (n1.n_name = 'a' and n2.n_name = 'b') or (n1.n_name = 'c' and n2.n_name = 'd') )",
+    "case1": {
+        "q2": "select n1.n_name as supp_nation, n2.n_name as cust_nation, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey = o_custkey and c_nationkey = n2.n_nationkey and ( (n1.n_name = 'a' and n2.n_name = 'c') or (n1.n_name = 'c' and n2.n_name = 'd') )",
+        "rs": ["n2.n_name = 'c'"],
+        "fix": ["n2.n_name = 'b'"],
+        "cost": 0.25,
+        "num_pred": 10
+    },
+    "case2": {
+        "q2": "select n1.n_name as supp_nation, n2.n_name as cust_nation, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey <> o_custkey and c_nationkey = n2.n_nationkey and ( (n1.n_name = 'a' and n2.n_name = 'b') or (n1.n_name = 'c' or n2.n_name = 'd') )",
+        "rs": ["c_custkey <> o_custkey", "n1.n_name = 'c' or n2.n_name = 'd'"],
+        "fix": ["c_custkey = o_custkey", "n1.n_name = 'c' and n2.n_name = 'd'"],
+        "cost": 0.64,
+        "num_pred": 10
+    }, 
+    "case3": {
+        "q2": "select n1.n_name as supp_nation, n2.n_name as cust_nation, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey <> o_custkey and c_nationkey = n2.n_nationkey and ( (n1.n_name = 'd' and n2.n_name = 'b') or (n1.n_name = 'c' or n2.n_name = 'd') )",
+        "rs": ["c_custkey <> o_custkey", "n1.n_name = 'c' or n2.n_name = 'd'", "n1.n_name = 'd'"],
+        "fix": ["c_custkey = o_custkey", "n1.n_name = 'c' and n2.n_name = 'd'", "n1.n_name = 'a'"],
+        "cost": 0.88,
+        "num_pred": 10
+    }, 
+    "case4": {
+        "q2": "select n1.n_name as supp_nation, n2.n_name as cust_nation, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey <> o_custkey and c_nationkey <> n2.n_nationkey and ( (n1.n_name = 'a' and n2.n_name = 'c') or (n1.n_name = 'c' or n2.n_name = 'd') )",
+        "rs": ["c_custkey <> o_custkey", "n1.n_name = 'c' or n2.n_name = 'd'", "n2.n_name = 'c'", "c_nationkey <> n2.n_nationkey"],
+        "fix": ["c_custkey = o_custkey", "n1.n_name = 'c' and n2.n_name = 'd'", "n2.n_name = 'b'", "c_nationkey = n2.n_nationkey"],
+        "cost": 1.12,
+        "num_pred": 10
+    },
+    "case5": {
+        "q2": "select n1.n_name as supp_nation, n2.n_name as cust_nation, l_extendedprice * (1 - l_discount) as volume from supplier, lineitem, orders, customer, nation n1, nation n2 where s_suppkey = l_suppkey and o_orderkey = l_orderkey and c_custkey <> o_custkey and c_nationkey <> n2.n_nationkey and ( (n1.n_name = 'x' and n2.n_name = 'b') or (n1.n_name = 'c' or n2.n_name = 'd') )",
+        "rs": ["c_custkey <> o_custkey", "n1.n_name = 'c' or n2.n_name = 'd'", "n2.n_name = 'c'", "c_nationkey <> n2.n_nationkey", "n1.n_name = 'x'"],
+        "fix": ["c_custkey = o_custkey", "n1.n_name = 'c' and n2.n_name = 'd'", "n2.n_name = 'b'", "c_nationkey = n2.n_nationkey", "n1.n_name = 'a'"],
+        "cost": 1.37,
+        "num_pred": 10
+    }
+}
+
+

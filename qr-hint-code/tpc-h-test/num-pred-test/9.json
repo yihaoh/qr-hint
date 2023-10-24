@@ -1,0 +1,10 @@
+{
+    "id": "tpc-9",
+    "q1": "select n_name as nation, o_orderdate as o_year, l_extendedprice * (1 - l_discount) - ps_supplycost * l_quantity as amount from part, supplier, lineitem, partsupp, orders, nation where s_suppkey = l_suppkey and ps_suppkey = l_suppkey and ps_partkey = l_partkey and p_partkey = l_partkey and o_orderkey = l_orderkey and s_nationkey = n_nationkey and p_name = 'aws'",
+    "q2": "select n_name as nation, o_orderdate as o_year, l_extendedprice * (1 - l_discount) - ps_supplycost * l_quantity as amount from part, supplier, lineitem, partsupp, orders, nation where s_suppkey = 123 and ps_suppkey = l_suppkey and ps_partkey = l_partkey and p_partkey = l_partkey and o_orderkey = l_orderkey and s_nationkey = n_nationkey and p_name = 'msr'",
+    "repair_sites": ["s_suppkey = 123", "p_name = 'msr'"],
+    "fixes": ["s_suppkey = l_suppkey", "p_name = 'aws'"],
+    "cost": 0.48,
+    "unique_preds": 9,
+    "comment": "SQL EXTRACT might cause issue, so removed in the SELECT clause"
+}

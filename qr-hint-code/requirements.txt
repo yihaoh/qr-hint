@@ -1,0 +1,9 @@
+jpype1
+z3-solver
+colorclass
+terminaltables
+matplotlib
+numpy
+pandas
+boolean_parser
+networkx
