@@ -3,7 +3,7 @@
 This repository contain the source code for qr-hint, as well as a full version of the paper (same main body with extra appendix).
 
 ## Note
-1. There is a typo in Lemma 5.1 in the submitted version of the paper (the viability check should be equivalence between two formula). This typo is corrected in the full version under this repository. We sincerely apologize for any inconvenience and confusion.
+1. There is a typo in Lemma 5.1 in the submitted version of the paper (the viability check should be equivalence between two formula as stated at the beginning of section 5). This typo is corrected in the full version under this repository. We sincerely apologize for any inconvenience and confusion.
 2. Please do not look into `global_var_beers.py`, `global_var_dblp.py` and `global_var_tpc.py` as they are importing a Java library developed by the authors, andh the Java package contains information that might leak authors' identity.
 
 ## Setup
