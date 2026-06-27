@@ -1,0 +1,7 @@
+**/*~
+**/*.bc
+**/*.o
+**/*.so
+.env
+.vscode
+**/.DS_Store

@@ -1,0 +1,5 @@
+# blmfl postgresql extension
+comment = 'summary of a collection of values using a bloomfilter'
+default_version = '0.0.1'
+module_pathname = '$libdir/blmfl'
+relocatable = false

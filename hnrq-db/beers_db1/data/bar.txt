@@ -1,0 +1,241 @@
+name,address
+"James Joyce Pub",43566 Yoder Points
+"Satisfaction",150 Cline Station
+"Down Under Pub",9754 Gates Park
+"The Edge",429 Peggy Junction
+"Talk of the Town",485 Justin Pass
+"Altes Sudhaus",2297 Scott Key Apt. 160
+"Goldener Anker",2226 Scott Mall
+"Trattoria la Grappa",53135 Waller Road
+"Neu Kong Fondue Restaurant",15894 Peters Bridge
+"Pizzeria Carlo",6741 Alfred Estates Apt. 085
+"Dynastie Chinese Fastfood",009 Carney Bridge Apt. 630
+"Casanostra",987 Rodgers Gardens
+"Tor zum Rennsteig",3987 James Glen Apt. 145
+"Leons italienisches Restaurant",771 Miranda Ports Apt. 858
+"Wolfgangs",9680 Haynes Keys
+"Om Shanti",7049 Perry Divide
+"Il Brigantino da Francesco",8210 Stuart Tunnel Apt. 715
+"Landgasthof am Brunnen Inh. Harald Knobel",39593 Reynolds Skyway Apt. 719
+"Algarve",50688 Mark Squares Apt. 109
+"Es Bembelsche, Strausswirtschaft Dey",2780 Morgan Drive
+"Land & Leute",8593 Tiffany Courts Suite 513
+"Donerhaus Dest",671 Patterson Flat Suite 108
+"Korea",9048 Stephanie Lake Apt. 309
+"Alte Schule",89835 James Mountains Apt. 188
+"Pizzeria Bistro Leonardo",27291 Camacho Highway Suite 101
+"Schlossterasssen",4200 Ashley Square Apt. 033
+"Stadt Berlin",534 Melissa Junctions Apt. 421
+"Tijol",74074 Gloria Square
+"Bodega",601 Megan Fort Suite 963
+"Zur Ziegelhuette",463 Lyons Lodge
+"Schnitzelhaus Party- und Heimservice",457 Lisa Park Apt. 923
+"Man Wah",487 Osborne Vista Suite 604
+"Pizza Hut",07997 Tammy Mews
+"Kaffeemanufaktur Hirschhorn GmbH & Co KG",3593 Washington Flats
+"Goldener Hahn",5165 Williams Fords
+"Ginnheimer Wirtshaus",47470 Coleman Skyway Apt. 782
+"Little Tokyo",453 Reilly Valley Suite 934
+"Gasthof zum Ulmenstein, Harald Trapp",939 Sean Lock Apt. 964
+"Muckenwirt",5473 Henderson Heights
+"Mainterrasse Hassia",806 Steve Common Apt. 471
+"Restaurant Sonono",2677 Norman Prairie Suite 241
+"Drays Brauhaus Lorsch",96561 Lisa Manors Apt. 991
+"Trattoria Promis",895 Newman Squares Apt. 089
+"Yam Yam",17201 Roy Parkway
+"Pizzeria Avanti",28702 Tammy Valley Apt. 581
+"Hooters American Sports Bar",127 Cohen Trail Suite 123
+"Eiscafe Bistro Milano",068 Holmes Trace
+"Turmschmiede",0415 Marisa Dale
+"Zum Lowen",648 Ruiz Valleys
+"Buen Gusto",95965 Sloan Causeway
+"Leib & Seele",329 Stephen Drive
+"Langenschwalbacher Schlemmer & Kultur Station",207 Lewis Greens
+"Late Night Pizzeria",36058 Jones Ways Suite 149
+"Eulenpick",780 Gilbert Wall Suite 778
+"Hellas Griechisches Restaurant",891 Gonzalez Brook Suite 057
+"Saftbar",696 Pope Summit Suite 000
+"Restaurant Sterkel",27288 Bolton Lights Apt. 515
+"Zum Bembelsche",096 Ruiz Springs
+"Ratsschanke Wetzlar",5535 Jones Skyway
+"Cafe Hilde",593 Dawn Lake
+"Michel's Restaurant",550 Chase Hollow Suite 543
+"Ristorante Il Gan Localino",9324 Walter Manors
+"Akropolis",874 Lisa Overpass Apt. 194
+"Vanilla",93041 Justin Hollow
+"Dschingis Khan Au Garden",0775 Frank Mountains Suite 612
+"El-Rayyan",120 Norris Stream Suite 383
+"XO",2754 Stacey Ridges Apt. 284
+"Gasthaus Sonne",6373 Munoz Corners
+"Restaurant Feldbergblick",754 Heather Skyway Apt. 568
+"Pizzeria Milano",157 Dennis View Apt. 638
+"Astheimer Schlosschen",592 Angela Circle
+"Daga",591 Pamela Walk
+"Faselstall",26217 Victor Views
+"Eisenberg-Hutte Korbach Goldhausen",4236 Richardson Pines
+"Gaststatte Metzger",5747 Amanda Port
+"Weiberwirtschaft",378 Keith Creek Suite 867
+"Gutsschanke Schloss Johannisberg",11990 Schwartz Greens Suite 100
+"Gosch Fisch-Bistro",49358 Pamela Mills
+"Pizzeria Amalfi",57349 Natalie Junction
+"Restaurant Hotel Bessunger Forst",42268 Kayla Estates Suite 637
+"IN+ART INos+ARTos",5292 Matthew Underpass Apt. 292
+"Biancalani Cucina",255 David Light
+"Da Gigi",5285 Garcia Passage
+"Restaurant-Konoba "Zum Ritter"",880 Richard Vista
+"Tong-Tong",22168 Duffy Islands Apt. 447
+"Coffee Fellows",65439 Whitney Well
+"Burger King Oberhausen",9028 Jones Passage
+"Ristorante Roma",04417 Angela Orchard
+"Pronto Pizza",18680 Mathis Highway Apt. 763
+"Pizzeria Triangolo",6828 Glenn Center Apt. 282
+"Bistro 1904 am Hotel Kurfurst Wilhelm I.",21289 Sarah Grove
+"Bomatscher Elb-Panoramagaststatte Und Pension",6452 Arnold Manor Apt. 141
+"Hollywood / Schacht Barbara",62351 Downs Spring
+"Odenwalder Bauernstube",26335 Ryan Corner
+"Lapp",234 Christina Divide Suite 896
+"Pik-Dame",2762 Lacey Groves Apt. 292
+"Zum Buchhugel",73794 John Walks
+"Muller Bistro",86722 Mark Grove Apt. 650
+"Wollbacher Tor",830 Morgan Plains Apt. 042
+"Ratsstube",256 Ford Wells Suite 029
+"Grand Cru",061 Rivera Dale
+"Bauschemer Stubb'che",35687 Jonathan Causeway Suite 063
+"Sonne Inh. Leubecher",7876 May Terrace Apt. 322
+"Die Kneipp",15146 Lawrence Locks Apt. 194
+"Athos Inh. Andreas Nikolaou Griechisches Restaurante",3179 Amy Inlet Apt. 826
+"Haller Ranch",79462 Bishop Glens
+"Gasthof Adler",891 Gabriel Place Apt. 305
+"Mogks Bierstubb",586 Brown Meadow
+"Doener Kebap",4437 Glenn Lakes Apt. 421
+"Fratelli Pizza Pasta Bar",473 Reid Flats
+"Gaststatte Krackhof",99647 Jill Square Apt. 626
+"Pizzeria Party",88517 Gonzalez Inlet
+"Ristorante Pizzeria Toscana",5212 Brown Alley Suite 485
+"Bayram Kebab House",7028 Michael Street
+"Rag Bar",8344 Amy Valleys
+"Lieferservice & Doneria la Cosa Nostra",8729 Brandon Causeway
+"Pizza und Pasta Tonini",9098 Swanson Falls Apt. 483
+"Pizzeria I-tre Fratelli",5531 Flores Forges
+"Gaststatte Ross",61974 Smith Brooks
+"Gaststaette Oelgraben",899 Richardson Unions Suite 578
+"Burg Cafe Restaurant",15318 Denise Row Suite 596
+"Zur Staustufe",424 David Garden Suite 315
+"Hansenhaus links",611 Smith Square
+"Alte Zollwache",15267 Pittman Bridge
+"Enchilada Kassel",795 Ryan Lock Suite 796
+"Manolya",39323 Joyce Ford
+"Starbucks",342 Willie Park
+"Mr. Thai Imbiss",59877 Charles Tunnel Suite 250
+"Bockenheimer Stubb",939 Jones Via
+"Castello Romano",2491 Schultz Vista
+"Speisegaststatte Feldberg Gaststatten",295 Kelly Lakes
+"Jessler und Herbst",135 Smith River Suite 313
+"Zur Platane",261 Brianna Hollow
+"Landhaus Furstengarten",047 Tyler Drive Apt. 871
+"Pfefferkorn",3351 Stacey Avenue Suite 710
+"Tajinerie",328 Campbell Extension
+"Berghotel Hexentanzplatz",704 Rebecca Plaza
+"Papanova",81478 Young Rapid Suite 801
+"McDonald's",3145 Miller Stream
+"Qbar",68195 Justin Alley
+"Ristorante Pizzeria Pierrot da Pino",10274 Day Parks
+"Adel.es Restaurant",87976 Chen Inlet Apt. 567
+"Gaddezwersch",389 Perez Crest Apt. 162
+"Godenhouse Chinarestaurant",0438 Gerald Mission
+"Ratsstuben Burgerhaus",79876 Judith Fort
+"Weingut Diefenhard",3557 Knight Summit
+"Kaffe Haus Madlen",85522 Jordan Shores
+"China Restaurant Kaiser",39344 Chen Heights
+"La",38555 Lang Center Suite 360
+"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria",2284 Campbell Green Suite 351
+"Alex Skyline Plaza",13698 Monica Squares
+"Asia Thai Imbiss am Zoo",58333 Justin Divide
+"Restaurant Memory",1276 Evans Estate
+"Bernemer Brunnchen",9456 Andrew Forest
+"Gasthof Altes Casino Restaurant",4088 Johnson Center
+"Sandwicher",2986 James Viaduct Suite 940
+"Landgasthof Dorfschanke",39818 Nguyen Drive
+"Asian Wok",46908 Michelle Bridge
+"Zweite Heimat",784 Owens Canyon Apt. 057
+"Coco",9461 Ferguson Meadows
+"Burgklause",919 Smith Ways
+"Burger King",34686 Jennifer Brook
+"Weiherhaus",4552 Richard Light
+"Sachers Cafe Alte Munz",439 Nancy Forks Suite 523
+"Pizzeria Forum Galati",1155 Joseph Knolls Suite 694
+"Hexenkessel",55419 Joshua Plain
+"Rhodos",96028 Patricia Grove
+"Rottger",6870 Diana Stream Apt. 577
+"My Coffee Backshop",1206 Monique Creek
+"Grunsels Bornchen",0727 Jasmine Key
+"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM",521 Fleming Club
+"Melo",49381 Ramirez Cliffs
+"Wetzlarer Hof",7750 Sherri Wall Suite 143
+"Pizzeria Santa Lucia",67765 Ralph Fords Apt. 671
+"Lesecafe",7657 Dyer Path Suite 998
+"La Galleria",9845 Andrea Wall
+"Super-Guru",522 Gutierrez Rue
+"Taverne Kavala",809 Lopez Springs Suite 873
+"Ristorante al dente da Pino",67854 Peterson Flat
+"Cubana",52409 Lopez Ville
+"Burgerstuben",58062 Laurie Spring
+"Metropolis Lounge Bensheim",208 Smith Island Suite 965
+"Miro's",930 Gibson Islands Apt. 798
+"Sushi Bar Yokohama",5103 Kyle Field Apt. 437
+"Zur frischen Quelle",3319 Christopher Corners Suite 421
+"Bella Mia",060 Stephen Ranch
+"Inspektorenhaus",92070 Richard Roads Suite 759
+"Alte Liebe",6332 Thomas Ford
+"Wein Zeit",44118 Brown Track Apt. 100
+"Locanda in der Alten Post Inh.Wolfgang Janke",542 Joseph Locks Suite 563
+"Akebono",3040 Bishop Overpass
+"Gaststatte Bosphorus",2429 Matthew Underpass Suite 892
+"Borsch Anni Imbiss",4400 Terry Dam Apt. 815
+"Restaurant Ganesha",47330 Frank Ramp
+"Maestro Schneider's - Jagdhotel Rose",5737 Brady Trace Apt. 245
+"Stadtcafe Treppenstrasse GmbH",6394 Keith Spurs
+"Doner-Pizzeria",8509 Garcia Cliff Suite 565
+"Artemis Palace",8975 Brittany Branch
+"Strandperle Bistro and Bar",49967 Andrew Freeway
+"Zum Stiftskammerer",1252 Lynch Point
+"China Haus Chui, Kiet Zhanh",7614 Laurie Turnpike
+"Hotel Rheinstein",08375 Tiffany Forest
+"Spektrum",421 Ashlee Rapid Apt. 260
+"Felseneck",035 Danielle Mountain Suite 233
+"Kutschereck Griechische Spezialitaten",2817 Reilly Station
+"Marktstube",99520 Anderson Center Suite 716
+"Zum Grauen Bock",69404 Brady Spurs
+"Burger Fahrhaus",2004 Kelly Harbors
+"Gaststatte Gruner Baum",6660 West Ramp Apt. 779
+"Gruner Baum",2439 Burns Route Suite 823
+"Hotel Adler",4151 Rebecca Roads Suite 165
+"Zauberwald",0505 Christine Radial
+"mauergasse",114 Kathryn Ford Suite 069
+"Urfa Kebap Haus",920 Max Forks
+"Pizzeria Albatros",5626 Courtney Mission Apt. 080
+"Zum Heidekuppel",027 Nancy Wall Suite 607
+"Restaurante Raffaele",7357 Dalton Walks
+"Zum Bizzenbachtal",19377 Guerra Cove Apt. 400
+"Gargantua",0554 Duncan Plains Apt. 503
+"Restaurant Zum kleinen Italiener",119 Harris Viaduct Apt. 777
+"Pizzeria Euro Doner",0996 Alisha Terrace Apt. 109
+"Luna Bar",596 Natalie Pine
+"Yorgun",8769 Janet Isle Apt. 372
+"Grohe",5074 Sara Route
+"Brunnenwarterhaus",2210 Jamie Ports
+"Zum Spitzer",1140 Roberts Plaza Apt. 256
+"k'ties Petite France",670 Kelly Creek
+"GSV Gundernhausen Helga Kaiser",814 Kevin Station Apt. 802
+"Yours Australian Bar",577 Michael Court
+"Yang-Ji",3766 Robert Via Suite 057
+"Pizzeria Primavera",2064 Alexandra Highway
+"Bierbrunnen",138 Taylor Motorway
+"Schlemmer Grill",246 Alex Roads Suite 193
+"Pizza-Haus Zicke",743 Vincent Mall
+"Pfeffer & Salz",4204 Allison Manors Suite 032
+"La Terrazza",83096 Marc Falls Suite 860
+"Leonhards",08735 Brooks Ford
+"Eiscafe Rialto",576 Jeremy Heights
+"Gaststatte Riedbahnklause",75098 Miles Burg
+"Tadim",082 Julia Underpass

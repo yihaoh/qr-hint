@@ -1,0 +1,55 @@
+services:
+
+  postgres:
+    build:
+      context: sargsum/docker/postgres
+      dockerfile: Dockerfile
+      args:
+        - USER=${CONTAINER_USER}
+        - GROUP=${CONTAINER_USER}
+        - PASSWD=${CONTAINER_PASS}
+    environment:
+      TZ: "America/New_York"
+      PGTZ: "America/New_York"
+      POSTGRES_INITDB_ARGS: "--encoding=UTF-8"
+      POSTGRES_USER: ${CONTAINER_USER}
+      POSTGRES_PASSWORD: ${CONTAINER_PASS}
+      PG_DATA: /var/lib/postgresql/data
+    volumes:
+      # - ./docker/postgres/postgresql.conf:/etc/postgresql/postgresql.conf
+      - ${PWD}/setup.sh:/docker-entrypoint-initdb.d/setup.sh
+      - postgres-data:/var/lib/postgresql/data
+      - home-data:/home/${CONTAINER_USER}
+      - type: bind
+        source: ./
+        target: /home/${CONTAINER_USER}/shared
+        # do NOT make target the home directory because
+        # setup will write into it before bind takes effect
+    ports:
+      - "5432:5432"
+        # use "5432:5432" if you want to expose the port
+
+volumes:
+  home-data:
+  postgres-data:
+
+#   postgres:
+#     container_name: postgres
+#     image: postgres
+#     restart: always
+#     ports:
+#       - "5432:5432"
+#     expose:
+#       - "5432"
+#     volumes:
+#       - postgres:/var/lib/postgres
+#       - "${PWD}:/hnrq-db"
+#       - ${PWD}/setup.sh:/docker-entrypoint-initdb.d/setup.sh
+#       - ${PWD}/sargsum/docker/postgres/install.sh:/docker-entrypoint-initdb.d/install.sh
+#     environment:
+#       - POSTGRES_USER=postgres
+#       - POSTGRES_PASSWORD=postgres
+
+# volumes:
+#   postgres:
+

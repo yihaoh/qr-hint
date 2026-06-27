@@ -1,33 +1,201 @@
-# qr-hint
+# QR-Hint App
 
-This repository contains the source code for qr-hint, as well as a full version of the paper (same main body with extra appendix).
+A web application for SQL query repair and analysis using the QR-Hint system.
 
-## Note
-1. There is a typo in `Lemma 5.1` in the submitted version of the paper (the viability check should be equivalence between two formula as stated at the beginning of section 5). This typo is corrected in the full version under this repository. We sincerely apologize for any inconvenience and confusion.
-2. Please do not look into `global_var_beers.py`, `global_var_dblp.py`, and `global_var_tpc.py` as they are importing a Java library (`sqlanalyzer.jar`) developed by the authors, and the Java package contains information that might leak authors' identity.
-3. The Quine-McCluskey implementations are borrowed from this [GitHub repo](https://github.com/Kumbong/QuineMcCluskey) as well as this [repo](https://github.com/prekageo/optistate/tree/master). The maintainers of these repositories are not affiliated with the authors of the paper in any way.
+## Project Structure
 
-## Setup
-To run the demo code, please make sure you have a running PostgreSQL database with a user named "postgres" (should be default) and password "postgres". If you are using Docker, please feel free to check out what we have prepared under `db` directory. It is a classical beers database instance (same one as the running example in the paper).
+```
+qr_hint_app/
+├── backend/              # Flask backend API
+│   ├── api/             # API routes
+│   ├── services/        # Business logic (QR-Hint service)
+│   ├── models/          # Data models
+│   ├── qr_hint/         # QR-Hint core logic
+│   ├── app.py           # Flask application entry point
+│   └── config.py        # Configuration settings
+│
+└── frontend/            # React frontend
+    ├── src/
+    │   ├── components/  # React components
+    │   ├── data/        # Questions data
+    │   ├── services/    # API client
+    │   └── App.jsx      # Main application component
+    └── vite.config.js   # Vite configuration
+```
 
-Some system pre-requisites:
-1. Python 3.8 or above, remember to install all libraries in `requirements.txt`.
-2. Java JDK 11 or later, as we are using Apache Calcite.
-3. Jupyter notebook for demo.
+## Features
 
-## Demo
-Feel free to open Testing.ipynb with Jupyter Notebook to see the demo example. You can also play with it a little more. Note that when you write queries, make sure the first letter of all table names must be capitalized, otherwise it might cause errors in the program.
+- **Question Selection**: Select from predefined SQL questions (Q1-Q6)
+- **Query Input**: Enter your SQL query for analysis
+- **Query Repair**: Compare your query with the correct query and get repair suggestions
+- **Visual Feedback**:
+  - Red boxes show problems in your query
+  - Green boxes show suggested fixes
+  - Success message when your query is correct
 
-The most robust or bug-free part is testing WHERE, in which we try to cover a lot of corner cases and it is the most important component. 
+## Setup and Installation
 
-If you would like to see the experiments scripts, they are under `qr-hint-code/tpc-h-test`. `num-pred-test` corresponds to the runtime test for number of predicates, and `num-rs-test` corresponds to the accuracy test where multiple errors are injected. If you would like to run it yourself, make sure you do the following:
-1. In PostgreSQL, create a database called `tpc`.
-2. Create tables using the commands in `tpc-h-test/create.sql`.
-3. In `query_info.py`, comment out the import of `global_var_beers` and comment in the import of `global_var_tpc`.
+### Backend Setup
 
+1. Navigate to the backend directory:
+   ```bash
+   cd backend
+   ```
 
+2. Create a virtual environment and activate it:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
 
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+4. Run the backend:
+   ```bash
+   python app.py
+   ```
 
+   The backend will run on `http://localhost:5000`
 
+### Frontend Setup
 
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+   The frontend will run on `http://localhost:5173`
+
+## Usage
+
+1. **Start both servers** (backend and frontend)
+
+2. **Open your browser** and navigate to `http://localhost:5173`
+
+3. **Select a question** from the sidebar (Q1-Q6)
+
+4. **Enter your SQL query** in the text area
+   - **IMPORTANT**: Do NOT add a semicolon (`;`) at the end of your query
+   - The Calcite SQL parser used by QR-Hint doesn't support semicolons
+   - Semicolons are automatically removed if you include them
+
+5. **Click the "Repair" button** to analyze your query
+
+6. **Review the results**:
+   - If your query is correct, you'll see a success message
+   - If there are issues, you'll see repair suggestions with:
+     - Problem areas highlighted in red
+     - Suggested fixes shown in green
+
+## API Endpoints
+
+### Backend API
+
+- `GET /api/test-print` - Test endpoint to verify backend is running
+- `POST /api/repair` - Analyze and repair SQL queries
+  - Request body (note: no semicolons):
+    ```json
+    {
+      "correct_query": "SELECT * FROM table",
+      "incorrect_query": "SELECT * FORM table"
+    }
+    ```
+  - Response:
+    ```json
+    {
+      "ok": true,
+      "repairs": [
+        {
+          "repair_site": "FORM",
+          "fix": "FROM",
+          "repair_site_size": 4,
+          "fix_size": 4
+        }
+      ]
+    }
+    ```
+
+## Technologies Used
+
+### Backend
+- Flask - Web framework
+- Flask-CORS - Cross-origin resource sharing
+- Z3 - SMT solver for query analysis
+- Python 3.x
+
+### Frontend
+- React 19 - UI framework
+- Vite - Build tool
+- Tailwind CSS - Styling
+- Fetch API - HTTP requests
+
+## Configuration
+
+### Backend Configuration (.env)
+```
+FLASK_ENV=development
+HOST=0.0.0.0
+PORT=5000
+CORS_ORIGINS=http://localhost:5173,http://localhost:3000
+```
+
+### Frontend Configuration (vite.config.js)
+- Proxy configuration forwards `/api/*` requests to `http://localhost:5000`
+- Development server runs on port 5173
+
+## Troubleshooting
+
+### "Query syntax error: Encountered ';' at line X, column Y"
+- **Cause**: The Calcite SQL parser doesn't support semicolons at the end of queries
+- **Solution**: Remove the semicolon from your query
+- **Note**: The frontend automatically removes semicolons, but if you're testing the API directly, ensure queries don't end with `;`
+
+### Backend not connecting
+- Ensure the backend is running on port 5000
+- Check CORS settings in `backend/config.py`
+
+### Frontend API calls failing
+- Verify the Vite proxy configuration in `frontend/vite.config.js`
+- Check browser console for error messages
+- Ensure both frontend and backend servers are running
+
+### Query repair not working
+- Check that the QR-Hint modules are properly installed
+- Review backend logs for error messages
+- Verify the query syntax is valid SQL (without semicolons)
+
+## Development
+
+### Adding New Questions
+Edit `frontend/src/data/questions.js`:
+```javascript
+{
+  id: 'q7',
+  label: 'Q7',
+  question: 'Your question description',
+  correctQuery: 'SELECT * FROM table'  // No semicolon!
+}
+```
+
+### Modifying API Endpoints
+Backend routes are defined in `backend/api/routes.py`
+
+### Styling Changes
+The project uses Tailwind CSS. Modify component JSX files to update styles.
+
+## License
+
+[Your License Here]

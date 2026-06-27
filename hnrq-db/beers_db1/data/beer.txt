@@ -1,0 +1,198 @@
+name,brewer
+"Corona",br812
+"Amstel",br264
+"Budweiser",br779
+"Dixie",br287
+"Full Sail",br1056
+"Erdinger",br1385
+"Winter Welcome 2007-2008",br1099
+"Oatmeal Stout",br1099
+"Espresso Porter",br501
+"Chocolate Stout",br545
+"Hitachino Nest Real Ginger Brew",br742
+"JuJu Ginger",br779
+"The Kidd Lager",br545
+"Imperial Stout",br1099
+"Oak-Aged Belgian Tripel",br1315
+"Ultrablonde",br168
+"Wiesen Edel Weisse",br1023
+"Old Foghorn 2001",br39
+"Framboise",br196
+"Cow Palace Scotch Ale 1998",br483
+"Bigfoot 2001",br1142
+"Bigfoot 2002",br1142
+"Bigfoot 2003",br1142
+"Bigfoot 2004",br1142
+"Bigfoot 2005",br1142
+"Winter Ale",br1220
+"Full Moon Winter Ale",br878
+"Odell IPA",br935
+"Ornery Amber Lager",br1271
+"Cutthroat Porter",br935
+"Maple Nut Brown Ale Ale",br1271
+"Cocoa Porter",br1271
+"Jenlain Blonde",br190
+"Blonde",br196
+"Flemish Primitive Wild Ale (Demon Fish)",br432
+"Witkap-Pater Tripel",br294
+"Winter Cheer",br1175
+"Canaster Winter Scotch",br743
+"Heineken",br1307
+"Quelque Chose",br1307
+"Kriek",br277
+"Yuengling Lager",br170
+"Maracaibo Especial",br723
+"Flemish Primitive Wild Ale (Pin Head)",br432
+"Calabaza Blanca",br723
+"Porter",br901
+"Cardinal Pale Ale",br901
+"Zinnebir Xmas",br176
+"Bridal Ale 2005",br974
+"Zinnebir",br176
+"Saison Imperiale",br432
+"La Moneuse",br170
+"Red Sled Winter Ale",br901
+"Christmas Ale 2007",br39
+"Equinox Dark Belgian Winter",br176
+"Serafijn Christmas Angel",br856
+"Obovoid Empirical Stout",br160
+"Furious Beer",br1221
+"Bender Beer",br1221
+"Oak Aged Ebenezer",br1315
+"Killer Penguin",br160
+"Isolation Ale",br935
+"Festive Ale 2007",br501
+"Bourbon County Stout 2007",br586
+"Twelve Days",br670
+"Seriously Bad Elf",br1056
+"Big Shot Seasonal Ale",br905
+"God Jul - Winter Ale",br923
+"Harvest Ale 2007",br1142
+"Nut Cracker Ale",br161
+"Goosinator Smoked Doppelbock 2007",br779
+"Snow Bound Winter Ale",br779
+"Warrior IPA",br779
+"Petrus Oud Bruin",br266
+"Petrus Gouden Tripel Ale",br266
+"Petrus Blond Ale",br266
+"Petrus Dubbel Bruin Ale",br266
+"Petrus Speciale",br266
+"Weizengold Hefefein",br1202
+"Never Summer Ale",br160
+"Modern Monks Belgian Blonde",br1264
+"Grand Cru",br1264
+"Pabst Blue Ribbon",br210
+"OSB Premium Ale",br1272
+"Morocco Ale",br425
+"Glacier Ale",br1047
+"Bent Nail IPA",br1047
+"Harvest Ale",br879
+"Stillwater Rye",br879
+"Sharptail Pale Ale",br879
+"Fat Belly Amber",br879
+"Whitetail Wheat",br879
+"Sandbagger Gold",br879
+"Brunette Nut Brown Ale",br901
+"Irish Red",br901
+"Belgian Wit",br901
+"EOS Hefeweizen",br901
+"India Pale Ale",br901
+"Pride & Joy Mild Ale",br1260
+"Robert the Bruce Scottish Ale",br1260
+"Lump of Coal Dark Holiday Stout",br1056
+"Warm Welcome Nut Browned Ale",br1056
+"Pendle Witches Brew",br884
+"Carnegie Stark-Porter",br345
+"Harvest Ale 2002",br727
+"Woody Organic IPA",br1075
+"Adriaan",br620
+"Leute Bok Bier",br304
+"La Folie Falling Rock",br905
+"Oak Aged IPA",br1315
+"Tikka Gold",br304
+"La Divine Double Blond",br179
+"La Divine Tripel Amber",br179
+"Ename Tripel",br292
+"Triple Dipsea Belgian",br827
+"Oktoberfest Weizen",br1019
+"Imperial Hefeweizen",br1029
+"Triple Exultation Old Ale",br481
+"Organic Gingerbread Ale",br130
+"Falcon Pale Ale",br1064
+"Buzzsaw Brown",br441
+"Eisenbahn South American Pale Ale (S.A.P.A.)",br369
+"Geist Bock",br584
+"Troll Porter",br623
+"Dark Ale",br397
+"Cinder Cone Red",br441
+"LTD 02 Lager",br562
+"Saison Vielle Provision",br189
+"Organic Barley Wine Ale 2005",br130
+"Old Boardhead 2006",br562
+"Blue Dot Double India Pale Ale",br622
+"Nugget",br562
+"American Pale Ale",br1175
+"471 Extra ESB",br236
+"Odell Red Ale",br935
+"Long Leg English Fuggles Hop Ale",br335
+"Summer Lightning",br671
+"Haymaker Extra Pale Ale",br255
+"Pale Ale",br447
+"Silk Lady",br447
+"Danger Ale",br447
+"Irish Style Ale",br447
+"Yeti Special Export",br1392
+"Steelie Brown Ale",br1151
+"Bond Street 19th Anniversary",br441
+"Trumpeter",br1151
+"Nitro Porter",br1264
+"Fourteen",br62
+"Old Stock Ale 2007",br919
+"Cold Hop",br160
+"Hitachino Nest Espresso Stout",br742
+"Witte",br433
+"Slaapmutske Triple Nightcap",br432
+"Biere de Mars",br723
+"Kerst Pater Special Christmas Beer",br300
+"Zoetzuur Flemish Ale",br432
+"WPA (Wheat Pale Ale)",br869
+"Smoked Hefe",br869
+"The Unforgiven Amber Ale",br1084
+"Strange Ghost",br192
+"Duke IPA",br595
+"Broad Axe Stout",br595
+"Northern Light Lager",br595
+"Podge Belgian Imperial Stout",br31
+"Okocim Porter",br307
+"Blue Moon",br458
+"Pannepot",br433
+"Samurai",br604
+"Crystal Ale",br122
+"Gavroche French Red Ale",br177
+"Coney Island Lager",br1138
+"Dos Equis",br191
+"Dark Beer",br211
+"Steel Reserve",br723
+"Icehouse",br202
+"Beer Geek Breakfast",br859
+"Flemish Primitive Wild Ale (Spoon Whacker)",br432
+"Bock",br39
+"Double India Pale Ale",br810
+"Old Bawdy 2006",br984
+"Extra Strong Vintage Ale",br397
+"Certified Organic India Pale Ale",br481
+"Certified Organic Porter",br481
+"Certified Organic Extra Pale Ale",br481
+"Certified Organic Amber Ale",br481
+"Farm House Ale",br706
+"Beer Town Brown",br255
+"Tanners Jack",br890
+"Mephistopheles Stout",br62
+"Guinness",br923
+"Vertical Epic 07.07.07",br1204
+"Ringwood Brewery Old Thumper Extra Special Ale",br1136
+"Export Ale",br1136
+"Bourbon Barrel Porter",br950
+"Old Guardian Barley Wine 2007",br1204
+"White Christmas",br892
+"Winter",br175

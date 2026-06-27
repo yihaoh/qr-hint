@@ -1,0 +1,92 @@
+version: "3"
+
+services:
+  postgres:
+    build:
+      context: hnrq-db/sargsum/docker/postgres
+      dockerfile: Dockerfile
+      args:
+        - USER=${CONTAINER_USER}
+        - GROUP=${CONTAINER_USER}
+        - PASSWD=${CONTAINER_PASS}
+    environment:
+      TZ: "America/New_York"
+      PGTZ: "America/New_York"
+      POSTGRES_INITDB_ARGS: "--encoding=UTF-8"
+      POSTGRES_USER: ${CONTAINER_USER}
+      POSTGRES_PASSWORD: ${CONTAINER_PASS}
+      PG_DATA: /var/lib/postgresql/data
+    volumes:
+      # - ./docker/postgres/postgresql.conf:/etc/postgresql/postgresql.conf
+      - ${PWD}/hnrq-db/setup.sh:/docker-entrypoint-initdb.d/setup.sh
+      - postgres-data:/var/lib/postgresql/data
+      - home-data:/home/${CONTAINER_USER}
+      - type: bind
+        source: ./hnrq-db
+        target: /home/${CONTAINER_USER}/shared
+        # do NOT make target the home directory because
+        # setup will write into it before bind takes effect
+    # ports:
+    #   - "5432:5432"
+    expose:
+      - "5432"
+    networks:
+      - dbnet
+
+  # comment back ports section if run uwsgi without nginx
+  backend:
+    build: ./backend
+    container_name: backend
+    restart: always
+    environment:
+      DB_HOST: postgres
+      PORT: "8080"
+      FLASK_ENV: development
+      FLASK_DEBUG: "1"
+    volumes:
+      - ./backend:/app
+    # ports:
+    #   - "8080:8080"
+    expose:
+      - "8080"
+    depends_on:
+      - postgres
+    networks:
+      - dbnet
+  
+  # nginx
+  nginx:
+    image: library/nginx:1
+    container_name: nginx
+    restart: unless-stopped
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf # options: default, default-individual, default-oauth2
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./frontend/dist:/usr/share/nginx/html
+      # - ./ssl:/etc/ssl  # comment out this line if not using nginx with HTTPS
+    ports:
+      - "80:80"
+      # - "443:443"
+    depends_on:
+      - backend
+    networks:
+      - dbnet
+
+  # vouch
+  # vouch:
+  #   container_name: vouch
+  #   image: voucher/vouch-proxy
+  #   volumes:
+  #     - ./vouch:/config
+  #   restart: unless-stopped
+  #   networks:
+  #     - dbnet
+
+
+volumes:
+  home-data:
+  postgres-data:
+
+networks:
+  dbnet:
+

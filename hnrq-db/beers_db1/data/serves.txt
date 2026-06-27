@@ -1,0 +1,763 @@
+bar,beer,price
+"James Joyce Pub","Oatmeal Stout",3.75
+"James Joyce Pub","Guinness",1.75
+"James Joyce Pub","Old Guardian Barley Wine 2007",3.25
+"James Joyce Pub","Coney Island Lager",3.0
+"James Joyce Pub","Equinox Dark Belgian Winter",3.25
+"James Joyce Pub","Icehouse",3.0
+"Satisfaction","Biere de Mars",3.0
+"Satisfaction","Strange Ghost",3.75
+"Satisfaction","Goosinator Smoked Doppelbock 2007",2.75
+"Down Under Pub","Bigfoot 2003",2.75
+"Down Under Pub","Glacier Ale",3.0
+"Down Under Pub","Warrior IPA",3.25
+"Down Under Pub","Sandbagger Gold",3.0
+"The Edge","Oktoberfest Weizen",3.25
+"The Edge","Witte",3.25
+"The Edge","Petrus Oud Bruin",2.75
+"The Edge","Fourteen",2.5
+"Talk of the Town","Winter Ale",2.75
+"Talk of the Town","Cold Hop",2.25
+"Altes Sudhaus","Full Sail",3.5
+"Altes Sudhaus","JuJu Ginger",2.75
+"Altes Sudhaus","Isolation Ale",3.0
+"Altes Sudhaus","Oak Aged Ebenezer",2.75
+"Goldener Anker","Obovoid Empirical Stout",3.0
+"Goldener Anker","Equinox Dark Belgian Winter",2.75
+"Goldener Anker","Hitachino Nest Real Ginger Brew",3.25
+"Trattoria la Grappa","Petrus Speciale",2.75
+"Trattoria la Grappa","Northern Light Lager",3.25
+"Neu Kong Fondue Restaurant","Budweiser",3.5
+"Neu Kong Fondue Restaurant","Sandbagger Gold",3.0
+"Pizzeria Carlo","Old Stock Ale 2007",2.0
+"Pizzeria Carlo","Brunette Nut Brown Ale",3.25
+"Pizzeria Carlo","Flemish Primitive Wild Ale (Pin Head)",3.5
+"Pizzeria Carlo","Oak Aged Ebenezer",3.25
+"Pizzeria Carlo","Steelie Brown Ale",3.5
+"Dynastie Chinese Fastfood","Petrus Oud Bruin",2.75
+"Dynastie Chinese Fastfood","Calabaza Blanca",3.0
+"Dynastie Chinese Fastfood","Lump of Coal Dark Holiday Stout",2.75
+"Casanostra","Furious Beer",3.5
+"Casanostra","Porter",3.5
+"Casanostra","Bock",3.0
+"Casanostra","Dark Ale",3.25
+"Tor zum Rennsteig","Hitachino Nest Espresso Stout",3.5
+"Tor zum Rennsteig","God Jul - Winter Ale",2.5
+"Tor zum Rennsteig","Extra Strong Vintage Ale",3.25
+"Tor zum Rennsteig","Sandbagger Gold",3.0
+"Tor zum Rennsteig","Certified Organic Porter",2.75
+"Leons italienisches Restaurant","Oktoberfest Weizen",3.25
+"Leons italienisches Restaurant","Bent Nail IPA",2.75
+"Leons italienisches Restaurant","Lump of Coal Dark Holiday Stout",3.0
+"Wolfgangs","Falcon Pale Ale",3.25
+"Wolfgangs","Oak Aged IPA",3.5
+"Wolfgangs","Dark Ale",3.25
+"Om Shanti","Duke IPA",3.0
+"Om Shanti","Pannepot",3.0
+"Om Shanti","Old Guardian Barley Wine 2007",3.5
+"Om Shanti","Ringwood Brewery Old Thumper Extra Special Ale",2.5
+"Il Brigantino da Francesco","Christmas Ale 2007",3.25
+"Il Brigantino da Francesco","Furious Beer",2.75
+"Il Brigantino da Francesco","Bent Nail IPA",2.5
+"Il Brigantino da Francesco","Belgian Wit",3.25
+"Landgasthof am Brunnen Inh. Harald Knobel","Carnegie Stark-Porter",3.0
+"Algarve","JuJu Ginger",1.75
+"Algarve","Budweiser",2.75
+"Algarve","Cocoa Porter",2.0
+"Algarve","Festive Ale 2007",3.5
+"Es Bembelsche, Strausswirtschaft Dey","OSB Premium Ale",2.75
+"Es Bembelsche, Strausswirtschaft Dey","Trumpeter",3.75
+"Es Bembelsche, Strausswirtschaft Dey","Old Stock Ale 2007",3.75
+"Land & Leute","Amstel",2.75
+"Land & Leute","Eisenbahn South American Pale Ale (S.A.P.A.)",3.25
+"Land & Leute","JuJu Ginger",3.0
+"Donerhaus Dest","Okocim Porter",3.25
+"Donerhaus Dest","Saison Imperiale",3.25
+"Donerhaus Dest","Pabst Blue Ribbon",3.0
+"Donerhaus Dest","Cinder Cone Red",3.5
+"Donerhaus Dest","Morocco Ale",2.75
+"Korea","Stillwater Rye",3.0
+"Korea","Eisenbahn South American Pale Ale (S.A.P.A.)",3.25
+"Korea","Oak Aged IPA",3.0
+"Korea","Isolation Ale",3.5
+"Korea","Amstel",3.0
+"Alte Schule","God Jul - Winter Ale",3.0
+"Alte Schule","Bigfoot 2001",3.0
+"Pizzeria Bistro Leonardo","Christmas Ale 2007",2.75
+"Pizzeria Bistro Leonardo","Maracaibo Especial",3.25
+"Pizzeria Bistro Leonardo","Yeti Special Export",3.5
+"Pizzeria Bistro Leonardo","Eisenbahn South American Pale Ale (S.A.P.A.)",2.75
+"Schlossterasssen","Cold Hop",3.25
+"Schlossterasssen","Cardinal Pale Ale",3.5
+"Stadt Berlin","Bond Street 19th Anniversary",2.5
+"Stadt Berlin","Organic Gingerbread Ale",3.25
+"Stadt Berlin","Northern Light Lager",3.0
+"Stadt Berlin","Harvest Ale 2002",3.0
+"Tijol","Pale Ale",3.25
+"Tijol","Lump of Coal Dark Holiday Stout",3.5
+"Bodega","La Divine Double Blond",3.5
+"Bodega","Brunette Nut Brown Ale",3.0
+"Bodega","Beer Geek Breakfast",3.0
+"Bodega","Biere de Mars",2.75
+"Bodega","Witte",3.0
+"Bodega","Hitachino Nest Real Ginger Brew",3.25
+"Zur Ziegelhuette","Seriously Bad Elf",3.25
+"Zur Ziegelhuette","Odell Red Ale",2.5
+"Zur Ziegelhuette","OSB Premium Ale",2.75
+"Schnitzelhaus Party- und Heimservice","Saison Imperiale",3.0
+"Schnitzelhaus Party- und Heimservice","White Christmas",2.0
+"Schnitzelhaus Party- und Heimservice","Old Bawdy 2006",3.0
+"Man Wah","La Divine Tripel Amber",3.5
+"Man Wah","Flemish Primitive Wild Ale (Pin Head)",3.0
+"Man Wah","Jenlain Blonde",2.75
+"Man Wah","Imperial Hefeweizen",3.25
+"Man Wah","Tanners Jack",3.5
+"Pizza Hut","Sharptail Pale Ale",3.75
+"Pizza Hut","Bigfoot 2002",2.5
+"Pizza Hut","Zoetzuur Flemish Ale",2.75
+"Pizza Hut","Heineken",3.25
+"Kaffeemanufaktur Hirschhorn GmbH & Co KG","Danger Ale",2.5
+"Kaffeemanufaktur Hirschhorn GmbH & Co KG","Organic Gingerbread Ale",3.25
+"Kaffeemanufaktur Hirschhorn GmbH & Co KG","Biere de Mars",3.5
+"Kaffeemanufaktur Hirschhorn GmbH & Co KG","Falcon Pale Ale",3.25
+"Kaffeemanufaktur Hirschhorn GmbH & Co KG","Bigfoot 2003",3.0
+"Goldener Hahn","Flemish Primitive Wild Ale (Spoon Whacker)",3.5
+"Goldener Hahn","Obovoid Empirical Stout",2.5
+"Goldener Hahn","Petrus Oud Bruin",3.0
+"Ginnheimer Wirtshaus","Belgian Wit",3.0
+"Ginnheimer Wirtshaus","Witkap-Pater Tripel",3.25
+"Little Tokyo","Adriaan",3.25
+"Little Tokyo","Whitetail Wheat",3.0
+"Gasthof zum Ulmenstein, Harald Trapp","Bond Street 19th Anniversary",3.25
+"Gasthof zum Ulmenstein, Harald Trapp","Pabst Blue Ribbon",3.25
+"Gasthof zum Ulmenstein, Harald Trapp","Irish Red",3.25
+"Gasthof zum Ulmenstein, Harald Trapp","Morocco Ale",3.25
+"Muckenwirt","Winter Welcome 2007-2008",3.75
+"Mainterrasse Hassia","Haymaker Extra Pale Ale",3.0
+"Mainterrasse Hassia","Bigfoot 2002",3.0
+"Mainterrasse Hassia","Fat Belly Amber",2.5
+"Mainterrasse Hassia","Big Shot Seasonal Ale",3.0
+"Mainterrasse Hassia","Winter Welcome 2007-2008",3.25
+"Restaurant Sonono","Petrus Speciale",3.0
+"Restaurant Sonono","Espresso Porter",2.5
+"Restaurant Sonono","Buzzsaw Brown",3.0
+"Restaurant Sonono","Christmas Ale 2007",2.5
+"Restaurant Sonono","Isolation Ale",3.25
+"Drays Brauhaus Lorsch","Adriaan",2.75
+"Drays Brauhaus Lorsch","Podge Belgian Imperial Stout",3.0
+"Trattoria Promis","Petrus Gouden Tripel Ale",3.25
+"Trattoria Promis","Mephistopheles Stout",3.5
+"Trattoria Promis","Yeti Special Export",3.5
+"Trattoria Promis","Danger Ale",2.25
+"Yam Yam","Certified Organic Amber Ale",3.0
+"Yam Yam","Bent Nail IPA",2.25
+"Yam Yam","Kerst Pater Special Christmas Beer",3.0
+"Yam Yam","Jenlain Blonde",2.75
+"Yam Yam","Weizengold Hefefein",2.75
+"Yam Yam","Full Sail",3.0
+"Pizzeria Avanti","La Folie Falling Rock",2.0
+"Pizzeria Avanti","Steel Reserve",3.25
+"Hooters American Sports Bar","Bigfoot 2001",3.5
+"Hooters American Sports Bar","Yuengling Lager",3.0
+"Hooters American Sports Bar","Dos Equis",3.0
+"Hooters American Sports Bar","God Jul - Winter Ale",3.5
+"Eiscafe Bistro Milano","Festive Ale 2007",3.0
+"Turmschmiede","Cold Hop",3.0
+"Turmschmiede","Chocolate Stout",3.25
+"Turmschmiede","Guinness",2.75
+"Zum Lowen","Extra Strong Vintage Ale",3.5
+"Zum Lowen","Corona",2.75
+"Zum Lowen","Equinox Dark Belgian Winter",3.25
+"Buen Gusto","Nut Cracker Ale",3.0
+"Buen Gusto","Gavroche French Red Ale",3.5
+"Buen Gusto","Oatmeal Stout",3.25
+"Leib & Seele","Witkap-Pater Tripel",3.25
+"Leib & Seele","Sandbagger Gold",3.25
+"Leib & Seele","Corona",2.75
+"Langenschwalbacher Schlemmer & Kultur Station","Warrior IPA",3.25
+"Langenschwalbacher Schlemmer & Kultur Station","Grand Cru",2.5
+"Late Night Pizzeria","Morocco Ale",2.75
+"Late Night Pizzeria","Witkap-Pater Tripel",3.0
+"Late Night Pizzeria","Seriously Bad Elf",2.75
+"Eulenpick","Icehouse",3.25
+"Eulenpick","Hitachino Nest Espresso Stout",3.0
+"Hellas Griechisches Restaurant","Duke IPA",3.25
+"Hellas Griechisches Restaurant","Ultrablonde",3.5
+"Hellas Griechisches Restaurant","Adriaan",2.75
+"Saftbar","Amstel",2.75
+"Saftbar","Crystal Ale",2.75
+"Saftbar","Pannepot",3.5
+"Restaurant Sterkel","Oktoberfest Weizen",2.5
+"Restaurant Sterkel","Espresso Porter",3.0
+"Restaurant Sterkel","Cocoa Porter",3.5
+"Restaurant Sterkel","Ultrablonde",3.25
+"Zum Bembelsche","WPA (Wheat Pale Ale)",2.5
+"Zum Bembelsche","Ultrablonde",3.25
+"Zum Bembelsche","Seriously Bad Elf",3.0
+"Zum Bembelsche","Troll Porter",3.0
+"Ratsschanke Wetzlar","Glacier Ale",3.0
+"Ratsschanke Wetzlar","Okocim Porter",3.25
+"Cafe Hilde","Danger Ale",3.25
+"Cafe Hilde","Christmas Ale 2007",3.0
+"Michel's Restaurant","Espresso Porter",2.75
+"Michel's Restaurant","Ultrablonde",3.25
+"Michel's Restaurant","Brunette Nut Brown Ale",3.0
+"Ristorante Il Gan Localino","Old Bawdy 2006",2.75
+"Ristorante Il Gan Localino","Petrus Gouden Tripel Ale",2.25
+"Ristorante Il Gan Localino","Irish Red",2.75
+"Akropolis","Okocim Porter",3.5
+"Akropolis","Cardinal Pale Ale",3.0
+"Vanilla","Obovoid Empirical Stout",3.25
+"Vanilla","Gavroche French Red Ale",3.0
+"Vanilla","Zoetzuur Flemish Ale",3.25
+"Dschingis Khan Au Garden","Pendle Witches Brew",3.0
+"Dschingis Khan Au Garden","Dark Ale",3.0
+"Dschingis Khan Au Garden","Christmas Ale 2007",2.5
+"Dschingis Khan Au Garden","Witkap-Pater Tripel",3.5
+"El-Rayyan","Festive Ale 2007",2.75
+"El-Rayyan","Crystal Ale",2.75
+"El-Rayyan","Yuengling Lager",3.0
+"El-Rayyan","Beer Geek Breakfast",3.0
+"El-Rayyan","Glacier Ale",3.25
+"XO","Odell Red Ale",2.5
+"XO","Mephistopheles Stout",3.0
+"XO","Espresso Porter",2.75
+"XO","Crystal Ale",3.5
+"Gasthaus Sonne","Flemish Primitive Wild Ale (Spoon Whacker)",3.25
+"Gasthaus Sonne","Petrus Blond Ale",3.25
+"Restaurant Feldbergblick","Summer Lightning",3.75
+"Restaurant Feldbergblick","Troll Porter",2.75
+"Restaurant Feldbergblick","Zinnebir",2.75
+"Pizzeria Milano","Robert the Bruce Scottish Ale",3.75
+"Astheimer Schlosschen","Winter Welcome 2007-2008",3.25
+"Astheimer Schlosschen","Cinder Cone Red",2.5
+"Daga","Long Leg English Fuggles Hop Ale",3.5
+"Daga","Odell IPA",2.5
+"Daga","Petrus Speciale",2.5
+"Daga","Espresso Porter",2.75
+"Faselstall","Duke IPA",3.25
+"Faselstall","Odell Red Ale",2.75
+"Eisenberg-Hutte Korbach Goldhausen","Witte",2.5
+"Eisenberg-Hutte Korbach Goldhausen","Long Leg English Fuggles Hop Ale",2.5
+"Eisenberg-Hutte Korbach Goldhausen","Coney Island Lager",2.5
+"Gaststatte Metzger","Winter Welcome 2007-2008",3.5
+"Gaststatte Metzger","Weizengold Hefefein",1.25
+"Gaststatte Metzger","Pride & Joy Mild Ale",2.5
+"Weiberwirtschaft","Goosinator Smoked Doppelbock 2007",2.75
+"Weiberwirtschaft","Steel Reserve",2.75
+"Gutsschanke Schloss Johannisberg","WPA (Wheat Pale Ale)",3.25
+"Gosch Fisch-Bistro","Leute Bok Bier",3.0
+"Gosch Fisch-Bistro","Bigfoot 2001",2.75
+"Pizzeria Amalfi","Certified Organic India Pale Ale",3.5
+"Restaurant Hotel Bessunger Forst","Cardinal Pale Ale",2.75
+"Restaurant Hotel Bessunger Forst","471 Extra ESB",2.25
+"Restaurant Hotel Bessunger Forst","Chocolate Stout",3.5
+"IN+ART INos+ARTos","La Folie Falling Rock",3.25
+"IN+ART INos+ARTos","Glacier Ale",3.0
+"IN+ART INos+ARTos","Flemish Primitive Wild Ale (Pin Head)",2.75
+"IN+ART INos+ARTos","Carnegie Stark-Porter",2.5
+"Biancalani Cucina","Bridal Ale 2005",3.5
+"Biancalani Cucina","Bigfoot 2005",3.5
+"Da Gigi","Petrus Dubbel Bruin Ale",3.75
+"Da Gigi","Fat Belly Amber",2.75
+"Da Gigi","Okocim Porter",2.5
+"Restaurant-Konoba "Zum Ritter"","Bourbon Barrel Porter",3.25
+"Restaurant-Konoba "Zum Ritter"","Maracaibo Especial",2.25
+"Tong-Tong","Pannepot",3.25
+"Tong-Tong","Nitro Porter",3.5
+"Tong-Tong","Strange Ghost",3.25
+"Coffee Fellows","Blue Moon",3.0
+"Coffee Fellows","Full Moon Winter Ale",3.25
+"Burger King Oberhausen","Bridal Ale 2005",3.25
+"Burger King Oberhausen","White Christmas",3.0
+"Burger King Oberhausen","Obovoid Empirical Stout",3.5
+"Burger King Oberhausen","Bourbon Barrel Porter",2.75
+"Burger King Oberhausen","Belgian Wit",3.5
+"Ristorante Roma","Brunette Nut Brown Ale",2.25
+"Pronto Pizza","Trumpeter",3.0
+"Pronto Pizza","Cinder Cone Red",3.5
+"Pronto Pizza","Falcon Pale Ale",3.25
+"Pronto Pizza","Warm Welcome Nut Browned Ale",2.5
+"Pizzeria Triangolo","La Moneuse",3.0
+"Pizzeria Triangolo","Amstel",3.25
+"Pizzeria Triangolo","Christmas Ale 2007",3.5
+"Pizzeria Triangolo","Weizengold Hefefein",3.0
+"Bistro 1904 am Hotel Kurfurst Wilhelm I.","God Jul - Winter Ale",2.75
+"Bistro 1904 am Hotel Kurfurst Wilhelm I.","Bigfoot 2004",3.0
+"Bistro 1904 am Hotel Kurfurst Wilhelm I.","Ringwood Brewery Old Thumper Extra Special Ale",3.5
+"Bomatscher Elb-Panoramagaststatte Und Pension","Glacier Ale",3.75
+"Bomatscher Elb-Panoramagaststatte Und Pension","Dark Ale",3.0
+"Bomatscher Elb-Panoramagaststatte Und Pension","Corona",2.5
+"Bomatscher Elb-Panoramagaststatte Und Pension","Icehouse",3.0
+"Hollywood / Schacht Barbara","Irish Red",2.75
+"Hollywood / Schacht Barbara","Kriek",3.0
+"Hollywood / Schacht Barbara","Beer Geek Breakfast",3.25
+"Hollywood / Schacht Barbara","Stillwater Rye",3.25
+"Odenwalder Bauernstube","Haymaker Extra Pale Ale",3.25
+"Odenwalder Bauernstube","Northern Light Lager",3.25
+"Odenwalder Bauernstube","Old Bawdy 2006",2.5
+"Odenwalder Bauernstube","Whitetail Wheat",3.0
+"Lapp","Cardinal Pale Ale",2.75
+"Lapp","Dos Equis",3.25
+"Lapp","Okocim Porter",3.5
+"Pik-Dame","Espresso Porter",3.5
+"Pik-Dame","Sharptail Pale Ale",3.0
+"Pik-Dame","Jenlain Blonde",3.0
+"Zum Buchhugel","Odell IPA",3.25
+"Zum Buchhugel","Cold Hop",3.25
+"Zum Buchhugel","Robert the Bruce Scottish Ale",3.0
+"Muller Bistro","La Divine Tripel Amber",3.0
+"Muller Bistro","Bigfoot 2002",3.5
+"Wollbacher Tor","Certified Organic Porter",3.25
+"Wollbacher Tor","Cold Hop",3.5
+"Wollbacher Tor","Nitro Porter",3.0
+"Wollbacher Tor","Coney Island Lager",3.25
+"Ratsstube","Bigfoot 2001",2.5
+"Ratsstube","Christmas Ale 2007",3.25
+"Ratsstube","La Folie Falling Rock",2.75
+"Grand Cru","Adriaan",2.5
+"Grand Cru","Stillwater Rye",3.25
+"Grand Cru","Triple Exultation Old Ale",3.0
+"Grand Cru","Cocoa Porter",3.5
+"Grand Cru","Imperial Stout",3.25
+"Bauschemer Stubb'che","Blue Moon",2.75
+"Bauschemer Stubb'che","Espresso Porter",3.0
+"Sonne Inh. Leubecher","La Divine Double Blond",3.5
+"Sonne Inh. Leubecher","Oatmeal Stout",2.75
+"Sonne Inh. Leubecher","Hitachino Nest Espresso Stout",3.0
+"Sonne Inh. Leubecher","Icehouse",2.75
+"Die Kneipp","Petrus Gouden Tripel Ale",3.75
+"Die Kneipp","Chocolate Stout",2.75
+"Athos Inh. Andreas Nikolaou Griechisches Restaurante","Christmas Ale 2007",3.25
+"Athos Inh. Andreas Nikolaou Griechisches Restaurante","Maracaibo Especial",3.5
+"Athos Inh. Andreas Nikolaou Griechisches Restaurante","Yeti Special Export",2.75
+"Athos Inh. Andreas Nikolaou Griechisches Restaurante","Bigfoot 2002",3.75
+"Athos Inh. Andreas Nikolaou Griechisches Restaurante","Warrior IPA",3.0
+"Haller Ranch","Fourteen",2.25
+"Haller Ranch","Haymaker Extra Pale Ale",2.5
+"Haller Ranch","Cow Palace Scotch Ale 1998",3.5
+"Gasthof Adler","Woody Organic IPA",3.5
+"Gasthof Adler","Blue Moon",3.0
+"Mogks Bierstubb","Maracaibo Especial",3.0
+"Mogks Bierstubb","Full Moon Winter Ale",2.75
+"Doener Kebap","Icehouse",3.25
+"Doener Kebap","Danger Ale",3.0
+"Doener Kebap","Jenlain Blonde",2.75
+"Fratelli Pizza Pasta Bar","Pannepot",3.5
+"Gaststatte Krackhof","Warrior IPA",3.5
+"Gaststatte Krackhof","Old Stock Ale 2007",2.75
+"Pizzeria Party","Never Summer Ale",2.5
+"Pizzeria Party","Bigfoot 2005",2.75
+"Pizzeria Party","Certified Organic Porter",3.75
+"Pizzeria Party","Pride & Joy Mild Ale",3.5
+"Ristorante Pizzeria Toscana","Steelie Brown Ale",3.0
+"Ristorante Pizzeria Toscana","Certified Organic Amber Ale",3.25
+"Ristorante Pizzeria Toscana","JuJu Ginger",3.25
+"Ristorante Pizzeria Toscana","Bridal Ale 2005",3.0
+"Bayram Kebab House","Extra Strong Vintage Ale",3.5
+"Rag Bar","Oatmeal Stout",2.0
+"Rag Bar","Saison Imperiale",3.25
+"Rag Bar","Brunette Nut Brown Ale",3.5
+"Lieferservice & Doneria la Cosa Nostra","Biere de Mars",3.75
+"Lieferservice & Doneria la Cosa Nostra","Witte",3.0
+"Lieferservice & Doneria la Cosa Nostra","Flemish Primitive Wild Ale (Pin Head)",3.0
+"Lieferservice & Doneria la Cosa Nostra","Old Stock Ale 2007",3.5
+"Pizza und Pasta Tonini","Odell IPA",3.0
+"Pizza und Pasta Tonini","Canaster Winter Scotch",3.0
+"Pizzeria I-tre Fratelli","Falcon Pale Ale",3.25
+"Pizzeria I-tre Fratelli","Summer Lightning",3.25
+"Pizzeria I-tre Fratelli","Amstel",3.25
+"Gaststatte Ross","Nut Cracker Ale",2.75
+"Gaststatte Ross","Warrior IPA",3.0
+"Gaststaette Oelgraben","Cow Palace Scotch Ale 1998",3.0
+"Gaststaette Oelgraben","Budweiser",3.25
+"Gaststaette Oelgraben","Long Leg English Fuggles Hop Ale",3.25
+"Gaststaette Oelgraben","Petrus Speciale",2.5
+"Burg Cafe Restaurant","Bender Beer",3.0
+"Burg Cafe Restaurant","Dos Equis",2.75
+"Burg Cafe Restaurant","Mephistopheles Stout",2.25
+"Zur Staustufe","Whitetail Wheat",3.5
+"Zur Staustufe","Winter Welcome 2007-2008",3.0
+"Zur Staustufe","Winter Ale",3.0
+"Zur Staustufe","Mephistopheles Stout",3.0
+"Hansenhaus links","Sandbagger Gold",2.5
+"Hansenhaus links","Leute Bok Bier",2.75
+"Hansenhaus links","Biere de Mars",2.75
+"Hansenhaus links","Carnegie Stark-Porter",3.25
+"Alte Zollwache","Dos Equis",3.0
+"Alte Zollwache","Petrus Speciale",3.0
+"Alte Zollwache","Modern Monks Belgian Blonde",3.25
+"Alte Zollwache","Oatmeal Stout",3.0
+"Alte Zollwache","Nut Cracker Ale",3.25
+"Enchilada Kassel","White Christmas",2.0
+"Enchilada Kassel","Triple Exultation Old Ale",3.75
+"Enchilada Kassel","Smoked Hefe",3.5
+"Enchilada Kassel","Bigfoot 2001",3.0
+"Manolya","Slaapmutske Triple Nightcap",3.25
+"Manolya","OSB Premium Ale",3.25
+"Manolya","Odell IPA",3.0
+"Manolya","Oak Aged Ebenezer",3.75
+"Starbucks","Cocoa Porter",3.25
+"Starbucks","Duke IPA",3.0
+"Starbucks","Winter Ale",3.0
+"Starbucks","Corona",2.25
+"Mr. Thai Imbiss","Irish Red",2.5
+"Mr. Thai Imbiss","Festive Ale 2007",3.0
+"Mr. Thai Imbiss","Petrus Dubbel Bruin Ale",3.25
+"Bockenheimer Stubb","Pendle Witches Brew",3.0
+"Bockenheimer Stubb","Ultrablonde",3.0
+"Bockenheimer Stubb","Flemish Primitive Wild Ale (Pin Head)",2.75
+"Castello Romano","Bent Nail IPA",3.25
+"Castello Romano","Okocim Porter",3.25
+"Speisegaststatte Feldberg Gaststatten","Triple Exultation Old Ale",3.25
+"Speisegaststatte Feldberg Gaststatten","Espresso Porter",2.75
+"Speisegaststatte Feldberg Gaststatten","Falcon Pale Ale",2.5
+"Speisegaststatte Feldberg Gaststatten","Porter",3.25
+"Jessler und Herbst","Pannepot",3.25
+"Jessler und Herbst","Troll Porter",3.0
+"Jessler und Herbst","Bigfoot 2005",3.5
+"Jessler und Herbst","Steel Reserve",3.0
+"Jessler und Herbst","La Divine Tripel Amber",2.75
+"Zur Platane","Espresso Porter",3.0
+"Zur Platane","Yuengling Lager",3.25
+"Zur Platane","Bridal Ale 2005",2.25
+"Landhaus Furstengarten","Christmas Ale 2007",3.25
+"Pfefferkorn","Harvest Ale",3.5
+"Pfefferkorn","Winter Welcome 2007-2008",3.5
+"Pfefferkorn","Oatmeal Stout",2.0
+"Tajinerie","Double India Pale Ale",3.5
+"Tajinerie","JuJu Ginger",2.75
+"Tajinerie","Equinox Dark Belgian Winter",3.5
+"Tajinerie","Yuengling Lager",2.75
+"Berghotel Hexentanzplatz","Cow Palace Scotch Ale 1998",3.0
+"Berghotel Hexentanzplatz","Extra Strong Vintage Ale",2.25
+"Berghotel Hexentanzplatz","Slaapmutske Triple Nightcap",3.0
+"Berghotel Hexentanzplatz","Big Shot Seasonal Ale",3.25
+"Papanova","Ringwood Brewery Old Thumper Extra Special Ale",2.25
+"Papanova","Falcon Pale Ale",3.0
+"Papanova","La Divine Tripel Amber",3.0
+"Papanova","Petrus Dubbel Bruin Ale",2.5
+"McDonald's","Yuengling Lager",3.25
+"Qbar","Maracaibo Especial",3.25
+"Qbar","Brunette Nut Brown Ale",2.75
+"Qbar","Never Summer Ale",3.5
+"Qbar","Triple Exultation Old Ale",2.75
+"Ristorante Pizzeria Pierrot da Pino","Oktoberfest Weizen",3.0
+"Ristorante Pizzeria Pierrot da Pino","Bigfoot 2002",3.5
+"Adel.es Restaurant","Zoetzuur Flemish Ale",3.0
+"Adel.es Restaurant","Oak Aged IPA",2.75
+"Adel.es Restaurant","Gavroche French Red Ale",2.75
+"Adel.es Restaurant","Budweiser",3.5
+"Gaddezwersch","Old Stock Ale 2007",3.75
+"Gaddezwersch","Mephistopheles Stout",3.0
+"Gaddezwersch","Beer Geek Breakfast",3.25
+"Godenhouse Chinarestaurant","Cinder Cone Red",3.0
+"Godenhouse Chinarestaurant","Modern Monks Belgian Blonde",3.25
+"Ratsstuben Burgerhaus","Corona",3.5
+"Ratsstuben Burgerhaus","Glacier Ale",2.25
+"Weingut Diefenhard","Festive Ale 2007",2.75
+"Weingut Diefenhard","Bender Beer",3.0
+"Kaffe Haus Madlen","Sharptail Pale Ale",2.5
+"Kaffe Haus Madlen","Steelie Brown Ale",3.0
+"Kaffe Haus Madlen","Petrus Gouden Tripel Ale",3.25
+"China Restaurant Kaiser","Bigfoot 2002",2.5
+"China Restaurant Kaiser","Oktoberfest Weizen",2.5
+"China Restaurant Kaiser","Bigfoot 2003",3.5
+"China Restaurant Kaiser","Bigfoot 2005",3.0
+"China Restaurant Kaiser","Festive Ale 2007",2.25
+"La","Certified Organic Amber Ale",2.75
+"La","Cocoa Porter",3.25
+"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria","Troll Porter",3.25
+"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria","Extra Strong Vintage Ale",3.0
+"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria","Biere de Mars",3.25
+"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria","JuJu Ginger",3.5
+"Alex Skyline Plaza","Grand Cru",3.0
+"Alex Skyline Plaza","Pride & Joy Mild Ale",3.25
+"Asia Thai Imbiss am Zoo","Weizengold Hefefein",2.5
+"Asia Thai Imbiss am Zoo","Coney Island Lager",2.5
+"Asia Thai Imbiss am Zoo","Harvest Ale 2002",2.75
+"Asia Thai Imbiss am Zoo","Petrus Dubbel Bruin Ale",3.0
+"Restaurant Memory","Bigfoot 2005",2.75
+"Restaurant Memory","Kerst Pater Special Christmas Beer",2.25
+"Restaurant Memory","Zinnebir",2.75
+"Bernemer Brunnchen","Christmas Ale 2007",3.5
+"Bernemer Brunnchen","Zoetzuur Flemish Ale",2.75
+"Bernemer Brunnchen","Morocco Ale",2.75
+"Gasthof Altes Casino Restaurant","Goosinator Smoked Doppelbock 2007",2.25
+"Gasthof Altes Casino Restaurant","Sandbagger Gold",3.0
+"Gasthof Altes Casino Restaurant","Blue Moon",2.75
+"Sandwicher","Strange Ghost",3.0
+"Sandwicher","Petrus Gouden Tripel Ale",3.0
+"Sandwicher","Lump of Coal Dark Holiday Stout",2.75
+"Sandwicher","Kriek",3.5
+"Landgasthof Dorfschanke","Bigfoot 2003",3.25
+"Landgasthof Dorfschanke","Glacier Ale",3.0
+"Landgasthof Dorfschanke","Bourbon Barrel Porter",3.5
+"Asian Wok","Pale Ale",3.25
+"Asian Wok","Cocoa Porter",3.5
+"Zweite Heimat","Falcon Pale Ale",3.5
+"Zweite Heimat","Fat Belly Amber",2.75
+"Zweite Heimat","Flemish Primitive Wild Ale (Spoon Whacker)",3.5
+"Zweite Heimat","Bigfoot 2002",3.0
+"Coco","Framboise",3.0
+"Coco","Espresso Porter",3.0
+"Coco","Irish Red",3.25
+"Coco","Isolation Ale",3.0
+"Burgklause","Belgian Wit",3.5
+"Burgklause","Troll Porter",3.5
+"Burgklause","Slaapmutske Triple Nightcap",3.25
+"Burgklause","Crystal Ale",3.25
+"Burgklause","Goosinator Smoked Doppelbock 2007",2.75
+"Burger King","Icehouse",3.5
+"Burger King","Ultrablonde",3.0
+"Burger King","Blue Moon",3.5
+"Weiherhaus","Old Bawdy 2006",3.25
+"Weiherhaus","Lump of Coal Dark Holiday Stout",3.25
+"Sachers Cafe Alte Munz","Petrus Gouden Tripel Ale",2.75
+"Sachers Cafe Alte Munz","Cocoa Porter",3.0
+"Sachers Cafe Alte Munz","Geist Bock",3.25
+"Sachers Cafe Alte Munz","Grand Cru",3.25
+"Pizzeria Forum Galati","God Jul - Winter Ale",3.0
+"Pizzeria Forum Galati","Warm Welcome Nut Browned Ale",2.75
+"Hexenkessel","Old Stock Ale 2007",2.0
+"Hexenkessel","Pale Ale",3.5
+"Hexenkessel","Bent Nail IPA",3.0
+"Rhodos","Ringwood Brewery Old Thumper Extra Special Ale",3.0
+"Rhodos","Sandbagger Gold",2.5
+"Rhodos","Full Moon Winter Ale",3.25
+"Rhodos","Certified Organic India Pale Ale",3.0
+"Rottger","Whitetail Wheat",3.25
+"Rottger","Never Summer Ale",3.75
+"Rottger","La Folie Falling Rock",3.25
+"My Coffee Backshop","Hitachino Nest Espresso Stout",3.0
+"My Coffee Backshop","Full Sail",3.5
+"My Coffee Backshop","Danger Ale",2.75
+"Grunsels Bornchen","Bigfoot 2002",2.25
+"Grunsels Bornchen","Cardinal Pale Ale",3.0
+"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM","Furious Beer",3.0
+"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM","Espresso Porter",3.0
+"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM","Bridal Ale 2005",2.0
+"Melo","Yeti Special Export",3.0
+"Melo","La Divine Double Blond",3.25
+"Wetzlarer Hof","Falcon Pale Ale",2.75
+"Wetzlarer Hof","Fat Belly Amber",3.25
+"Pizzeria Santa Lucia","Petrus Gouden Tripel Ale",2.0
+"Pizzeria Santa Lucia","Saison Imperiale",3.75
+"Pizzeria Santa Lucia","471 Extra ESB",2.5
+"Pizzeria Santa Lucia","Cardinal Pale Ale",3.75
+"Lesecafe","Isolation Ale",2.75
+"Lesecafe","La Divine Double Blond",2.5
+"Lesecafe","Yuengling Lager",3.25
+"La Galleria","Podge Belgian Imperial Stout",3.5
+"La Galleria","Grand Cru",3.0
+"La Galleria","Ringwood Brewery Old Thumper Extra Special Ale",3.25
+"La Galleria","Sharptail Pale Ale",2.5
+"Super-Guru","Lump of Coal Dark Holiday Stout",2.75
+"Super-Guru","Cold Hop",2.75
+"Super-Guru","Yeti Special Export",3.25
+"Super-Guru","Modern Monks Belgian Blonde",3.5
+"Taverne Kavala","Adriaan",3.25
+"Taverne Kavala","Certified Organic India Pale Ale",3.25
+"Taverne Kavala","Irish Red",3.25
+"Taverne Kavala","Bender Beer",3.25
+"Ristorante al dente da Pino","Certified Organic India Pale Ale",3.25
+"Ristorante al dente da Pino","Old Guardian Barley Wine 2007",2.5
+"Cubana","Bigfoot 2004",2.75
+"Cubana","Coney Island Lager",2.75
+"Cubana","Nut Cracker Ale",3.25
+"Cubana","Budweiser",3.0
+"Cubana","Petrus Oud Bruin",3.0
+"Burgerstuben","Oak Aged Ebenezer",3.5
+"Burgerstuben","La Moneuse",2.75
+"Metropolis Lounge Bensheim","Budweiser",2.75
+"Metropolis Lounge Bensheim","Cinder Cone Red",3.0
+"Metropolis Lounge Bensheim","Steelie Brown Ale",3.25
+"Metropolis Lounge Bensheim","Okocim Porter",3.0
+"Miro's","JuJu Ginger",3.0
+"Miro's","La Divine Tripel Amber",2.5
+"Sushi Bar Yokohama","Jenlain Blonde",3.25
+"Zur frischen Quelle","Bigfoot 2002",3.5
+"Zur frischen Quelle","Robert the Bruce Scottish Ale",2.75
+"Zur frischen Quelle","Festive Ale 2007",3.5
+"Zur frischen Quelle","Warm Welcome Nut Browned Ale",2.75
+"Zur frischen Quelle","Yuengling Lager",2.25
+"Bella Mia","Irish Red",3.5
+"Bella Mia","Organic Gingerbread Ale",3.25
+"Bella Mia","Duke IPA",3.0
+"Bella Mia","Kriek",3.75
+"Inspektorenhaus","Calabaza Blanca",3.0
+"Inspektorenhaus","Triple Exultation Old Ale",2.25
+"Inspektorenhaus","God Jul - Winter Ale",2.75
+"Inspektorenhaus","Belgian Wit",2.5
+"Inspektorenhaus","Old Bawdy 2006",2.5
+"Alte Liebe","Double India Pale Ale",2.5
+"Alte Liebe","Full Moon Winter Ale",3.5
+"Alte Liebe","Mephistopheles Stout",2.75
+"Wein Zeit","Equinox Dark Belgian Winter",3.25
+"Locanda in der Alten Post Inh.Wolfgang Janke","Robert the Bruce Scottish Ale",3.25
+"Locanda in der Alten Post Inh.Wolfgang Janke","Nitro Porter",3.5
+"Locanda in der Alten Post Inh.Wolfgang Janke","Icehouse",3.0
+"Locanda in der Alten Post Inh.Wolfgang Janke","Okocim Porter",2.25
+"Akebono","Fat Belly Amber",3.0
+"Akebono","Zoetzuur Flemish Ale",3.0
+"Akebono","Ultrablonde",2.25
+"Akebono","Pannepot",2.25
+"Akebono","Bigfoot 2005",2.5
+"Akebono","Warrior IPA",2.5
+"Gaststatte Bosphorus","Oktoberfest Weizen",2.25
+"Gaststatte Bosphorus","Podge Belgian Imperial Stout",3.0
+"Gaststatte Bosphorus","Obovoid Empirical Stout",3.0
+"Gaststatte Bosphorus","Winter Welcome 2007-2008",3.0
+"Gaststatte Bosphorus","Equinox Dark Belgian Winter",3.25
+"Gaststatte Bosphorus","Old Boardhead 2006",2.5
+"Borsch Anni Imbiss","Old Guardian Barley Wine 2007",3.0
+"Borsch Anni Imbiss","Amstel",3.0
+"Restaurant Ganesha","Furious Beer",1.75
+"Restaurant Ganesha","Bourbon County Stout 2007",3.25
+"Restaurant Ganesha","Chocolate Stout",3.0
+"Maestro Schneider's - Jagdhotel Rose","Podge Belgian Imperial Stout",2.5
+"Maestro Schneider's - Jagdhotel Rose","Extra Strong Vintage Ale",2.75
+"Maestro Schneider's - Jagdhotel Rose","God Jul - Winter Ale",3.5
+"Maestro Schneider's - Jagdhotel Rose","Kerst Pater Special Christmas Beer",3.25
+"Stadtcafe Treppenstrasse GmbH","Falcon Pale Ale",3.5
+"Stadtcafe Treppenstrasse GmbH","Bond Street 19th Anniversary",3.0
+"Stadtcafe Treppenstrasse GmbH","OSB Premium Ale",2.75
+"Stadtcafe Treppenstrasse GmbH","Biere de Mars",2.5
+"Doner-Pizzeria","Isolation Ale",3.5
+"Doner-Pizzeria","WPA (Wheat Pale Ale)",3.0
+"Doner-Pizzeria","Big Shot Seasonal Ale",3.5
+"Artemis Palace","La Divine Tripel Amber",3.0
+"Artemis Palace","JuJu Ginger",2.5
+"Artemis Palace","Triple Dipsea Belgian",3.5
+"Artemis Palace","Never Summer Ale",3.0
+"Artemis Palace","Hitachino Nest Espresso Stout",3.25
+"Strandperle Bistro and Bar","Zoetzuur Flemish Ale",2.75
+"Strandperle Bistro and Bar","Gavroche French Red Ale",2.75
+"Strandperle Bistro and Bar","Flemish Primitive Wild Ale (Pin Head)",3.0
+"Zum Stiftskammerer","God Jul - Winter Ale",2.5
+"Zum Stiftskammerer","Strange Ghost",3.5
+"Zum Stiftskammerer","Yeti Special Export",3.0
+"China Haus Chui, Kiet Zhanh","Sandbagger Gold",3.25
+"China Haus Chui, Kiet Zhanh","Stillwater Rye",2.5
+"China Haus Chui, Kiet Zhanh","JuJu Ginger",2.75
+"Hotel Rheinstein","Dark Ale",3.25
+"Hotel Rheinstein","OSB Premium Ale",2.75
+"Hotel Rheinstein","Pannepot",2.75
+"Hotel Rheinstein","Zoetzuur Flemish Ale",3.0
+"Spektrum","Weizengold Hefefein",2.75
+"Spektrum","Flemish Primitive Wild Ale (Spoon Whacker)",3.0
+"Spektrum","Furious Beer",3.0
+"Spektrum","Bigfoot 2001",3.5
+"Spektrum","Guinness",2.75
+"Felseneck","Irish Red",2.25
+"Felseneck","Fat Belly Amber",2.75
+"Kutschereck Griechische Spezialitaten","Fourteen",3.25
+"Kutschereck Griechische Spezialitaten","Beer Geek Breakfast",2.75
+"Marktstube","Bourbon Barrel Porter",3.25
+"Zum Grauen Bock","WPA (Wheat Pale Ale)",3.0
+"Zum Grauen Bock","Sandbagger Gold",3.25
+"Zum Grauen Bock","Trumpeter",3.0
+"Zum Grauen Bock","Never Summer Ale",3.25
+"Burger Fahrhaus","Adriaan",2.5
+"Burger Fahrhaus","Winter Ale",3.25
+"Burger Fahrhaus","Killer Penguin",2.75
+"Burger Fahrhaus","Framboise",3.25
+"Gaststatte Gruner Baum","Adriaan",3.25
+"Gaststatte Gruner Baum","Winter",2.75
+"Gruner Baum","Geist Bock",3.25
+"Gruner Baum","Grand Cru",3.25
+"Hotel Adler","Cocoa Porter",3.25
+"Zauberwald","Grand Cru",3.5
+"Zauberwald","Oatmeal Stout",2.5
+"mauergasse","Flemish Primitive Wild Ale (Spoon Whacker)",3.0
+"mauergasse","Ename Tripel",2.5
+"mauergasse","Cinder Cone Red",3.0
+"mauergasse","Bent Nail IPA",3.0
+"Urfa Kebap Haus","Imperial Hefeweizen",3.25
+"Urfa Kebap Haus","Whitetail Wheat",3.0
+"Pizzeria Albatros","Odell IPA",2.75
+"Pizzeria Albatros","Zoetzuur Flemish Ale",3.25
+"Pizzeria Albatros","Petrus Blond Ale",3.25
+"Pizzeria Albatros","Bond Street 19th Anniversary",3.25
+"Zum Heidekuppel","Bigfoot 2004",3.25
+"Zum Heidekuppel","Kriek",3.0
+"Zum Heidekuppel","Framboise",2.5
+"Restaurante Raffaele","American Pale Ale",2.75
+"Restaurante Raffaele","Framboise",3.5
+"Restaurante Raffaele","God Jul - Winter Ale",2.5
+"Zum Bizzenbachtal","Bigfoot 2005",3.5
+"Zum Bizzenbachtal","Espresso Porter",2.5
+"Gargantua","Oak Aged Ebenezer",2.75
+"Restaurant Zum kleinen Italiener","Zinnebir",3.25
+"Restaurant Zum kleinen Italiener","Equinox Dark Belgian Winter",3.5
+"Restaurant Zum kleinen Italiener","Guinness",2.75
+"Pizzeria Euro Doner","Falcon Pale Ale",2.75
+"Pizzeria Euro Doner","Northern Light Lager",2.75
+"Pizzeria Euro Doner","Steelie Brown Ale",3.25
+"Pizzeria Euro Doner","Bigfoot 2002",2.5
+"Pizzeria Euro Doner","Duke IPA",3.0
+"Luna Bar","Zinnebir",3.0
+"Luna Bar","Cardinal Pale Ale",2.25
+"Luna Bar","Extra Strong Vintage Ale",3.0
+"Luna Bar","OSB Premium Ale",3.0
+"Yorgun","Biere de Mars",3.25
+"Yorgun","Bigfoot 2002",2.5
+"Yorgun","Oatmeal Stout",2.75
+"Yorgun","Full Moon Winter Ale",3.0
+"Yorgun","Cardinal Pale Ale",3.0
+"Grohe","God Jul - Winter Ale",3.0
+"Grohe","Slaapmutske Triple Nightcap",3.25
+"Grohe","Bridal Ale 2005",3.25
+"Grohe","Triple Exultation Old Ale",3.5
+"Brunnenwarterhaus","Petrus Speciale",3.5
+"Brunnenwarterhaus","White Christmas",3.0
+"Brunnenwarterhaus","Coney Island Lager",2.0
+"Zum Spitzer","Bourbon County Stout 2007",3.25
+"Zum Spitzer","Fourteen",3.0
+"k'ties Petite France","Festive Ale 2007",3.5
+"k'ties Petite France","Flemish Primitive Wild Ale (Spoon Whacker)",3.0
+"k'ties Petite France","Dark Ale",3.25
+"GSV Gundernhausen Helga Kaiser","Steelie Brown Ale",3.0
+"GSV Gundernhausen Helga Kaiser","Petrus Gouden Tripel Ale",2.5
+"GSV Gundernhausen Helga Kaiser","Trumpeter",2.75
+"GSV Gundernhausen Helga Kaiser","Strange Ghost",2.75
+"Yours Australian Bar","Bourbon County Stout 2007",3.75
+"Yours Australian Bar","Killer Penguin",3.0
+"Yang-Ji","Grand Cru",3.25
+"Yang-Ji","Slaapmutske Triple Nightcap",3.0
+"Yang-Ji","Nitro Porter",2.5
+"Yang-Ji","Whitetail Wheat",3.5
+"Pizzeria Primavera","Oatmeal Stout",2.5
+"Pizzeria Primavera","Budweiser",3.25
+"Pizzeria Primavera","Bender Beer",2.0
+"Pizzeria Primavera","Grand Cru",2.75
+"Bierbrunnen","Corona",2.75
+"Bierbrunnen","Yuengling Lager",3.25
+"Bierbrunnen","Cardinal Pale Ale",3.0
+"Bierbrunnen","Bigfoot 2001",3.0
+"Schlemmer Grill","Corona",3.0
+"Pizza-Haus Zicke","Sandbagger Gold",3.25
+"Pizza-Haus Zicke","Cold Hop",3.25
+"Pizza-Haus Zicke","Festive Ale 2007",3.25
+"Pfeffer & Salz","Fat Belly Amber",3.25
+"Pfeffer & Salz","Isolation Ale",3.25
+"Pfeffer & Salz","Morocco Ale",3.0
+"Pfeffer & Salz","Stillwater Rye",3.5
+"La Terrazza","Imperial Hefeweizen",2.75
+"La Terrazza","Oatmeal Stout",3.25
+"Leonhards","Bent Nail IPA",2.75
+"Leonhards","Equinox Dark Belgian Winter",3.0
+"Eiscafe Rialto","White Christmas",3.75
+"Eiscafe Rialto","Odell IPA",3.5
+"Gaststatte Riedbahnklause","Glacier Ale",2.0
+"Gaststatte Riedbahnklause","Petrus Speciale",2.25
+"Gaststatte Riedbahnklause","Organic Gingerbread Ale",2.5
+"Gaststatte Riedbahnklause","La Divine Tripel Amber",3.5
+"Tadim","Triple Dipsea Belgian",3.5
+"Tadim","American Pale Ale",3.5
+"Tadim","Cocoa Porter",2.75
+"Gaststatte Metzger","The Kidd Lager",1.75
+"Lapp","Imperial Stout",3.0
+"Pik-Dame","Nugget",3.25
+"Restaurant Memory","American Pale Ale",2.25
+"Grunsels Bornchen","Imperial Hefeweizen",3.75

@@ -1,0 +1,27 @@
+# Flask Framework
+Flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+
+# HTTP Requests (for DeepSeek API)
+requests==2.31.0
+
+# QR-Hint Dependencies
+jpype1
+z3-solver
+colorclass
+terminaltables
+matplotlib
+numpy
+pandas
+boolean_parser
+networkx
+pyeda
+
+# Database (optional, add if needed)
+# psycopg2-binary==2.9.9
+# SQLAlchemy==2.0.23
+
+# Development Tools (optional)
+# pytest==7.4.3
+# pytest-flask==1.3.0

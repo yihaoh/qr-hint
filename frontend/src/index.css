@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    margin: 0;
+    background-color: #f1f5f9;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Smooth scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}
+
+@layer components {
+  .card {
+    background-color: white;
+    border-radius: 0.75rem;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e2e8f0;
+  }
+
+  .repair-item {
+    background-color: #eff6ff;
+    border-left: 4px solid #60a5fa;
+    padding: 1rem;
+    border-radius: 0.25rem;
+  }
+
+  .hint-box {
+    background: linear-gradient(135deg, #e0ecf4 0%, #d1e3f0 100%);
+    border-radius: 0.75rem;
+    padding: 1.25rem;
+    margin-top: 0.75rem;
+    border: 1px solid #c5d8e8;
+  }
+}

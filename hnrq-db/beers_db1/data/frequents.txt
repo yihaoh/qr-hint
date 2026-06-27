@@ -1,0 +1,1156 @@
+drinker,bar,times_a_week
+Joshua,"Zum Heidekuppel",4
+Joshua,"Tijol",3
+Joshua,"Leons italienisches Restaurant",3
+Ben,"Pfeffer & Salz",4
+Ben,"Ratsstube",4
+Ben,"Altes Sudhaus",1
+Nicole,"Da Gigi",3
+Nicole,"La Terrazza",4
+Nicole,"Papanova",3
+Jonathan,"IN+ART INos+ARTos",2
+Jonathan,"Pizzeria Avanti",4
+Jonathan,"Starbucks",3
+Timothy,"Mogks Bierstubb",3
+Timothy,"Zur Ziegelhuette",4
+Timothy,"Ratsstuben Burgerhaus",4
+Timothy,"Coffee Fellows",4
+Sean,"Dynastie Chinese Fastfood",3
+Sean,"My Coffee Backshop",3
+Jamie,"Grand Cru",1
+Jamie,"Enchilada Kassel",1
+Brandon,"Asia Thai Imbiss am Zoo",3
+Brandon,"Restaurant Sonono",3
+Brandon,"Stadt Berlin",2
+Brandon,"Lieferservice & Doneria la Cosa Nostra",4
+Rebecca,"Gosch Fisch-Bistro",3
+Rebecca,"Pizzeria Avanti",3
+Samantha,"Grand Cru",2
+Samantha,"Grohe",3
+Samantha,"Donerhaus Dest",4
+Dan,"Dschingis Khan Au Garden",4
+Dan,"Dynastie Chinese Fastfood",2
+Dan,"Ratsstube",3
+Dan,"Gasthof zum Ulmenstein, Harald Trapp",3
+Dan,"Altes Sudhaus",1
+Amy,"Spektrum",3
+Amy,"Talk of the Town",4
+Amy,"Gaststatte Krackhof",3
+Stacey,"Gaststatte Ross",4
+Stephen,"Pizzeria Forum Galati",3
+Stephen,"Donerhaus Dest",3
+Stephen,"Late Night Pizzeria",4
+Kenneth,"Pizzeria Euro Doner",3
+Kenneth,"Wollbacher Tor",4
+Steven,"Bella Mia",4
+Destiny,"El-Rayyan",4
+Destiny,"Zur frischen Quelle",4
+Destiny,"Godenhouse Chinarestaurant",1
+Destiny,"Zur Platane",2
+Destiny,"Berghotel Hexentanzplatz",4
+Dawn,"IN+ART INos+ARTos",4
+Dawn,"Grohe",3
+Dawn,"Zum Buchhugel",4
+Katie,"Burgerstuben",4
+Katie,"Gosch Fisch-Bistro",4
+Katie,"Gutsschanke Schloss Johannisberg",2
+Katie,"Eiscafe Rialto",3
+Katie,"Muckenwirt",2
+Felicia,"Daga",4
+Felicia,"Burgklause",3
+Felicia,"Rottger",3
+Dustin,"Restaurant Hotel Bessunger Forst",4
+Dustin,"Schlemmer Grill",4
+Dustin,"Starbucks",2
+Dustin,"Land & Leute",3
+Robert,"Zum Bembelsche",3
+Corey,"Melo",3
+Corey,"Restaurant Memory",3
+Corey,"Yang-Ji",3
+Lindsay,"Tajinerie",3
+Lindsay,"Alte Liebe",3
+Lindsay,"Lieferservice & Doneria la Cosa Nostra",4
+Linda,"Artemis Palace",3
+Linda,"Gruner Baum",4
+Anthony,"Gasthaus Sonne",4
+Anthony,"Weingut Diefenhard",4
+Joseph,"Sonne Inh. Leubecher",3
+Joseph,"Inspektorenhaus",3
+Joseph,"Tor zum Rennsteig",2
+Joseph,"Ristorante Il Gan Localino",3
+Joseph,"Pizzeria Party",3
+Allen,"Grunsels Bornchen",4
+Allen,"GSV Gundernhausen Helga Kaiser",3
+Allen,"Alte Liebe",2
+Allen,"Es Bembelsche, Strausswirtschaft Dey",2
+Lisa,"Schlossterasssen",4
+Lisa,"Ratsstuben Burgerhaus",2
+Lisa,"Pizzeria Euro Doner",4
+Rachel,"Grand Cru",3
+Rachel,"Landgasthof am Brunnen Inh. Harald Knobel",4
+Rachel,"Hansenhaus links",4
+Rachel,"Doner-Pizzeria",3
+Tiffany,"Jessler und Herbst",4
+Tiffany,"Gaststatte Riedbahnklause",4
+Tiffany,"Pizzeria Euro Doner",1
+Helen,"Ristorante Pizzeria Toscana",3
+Helen,"La Galleria",3
+Helen,"Manolya",2
+David,"Weiherhaus",4
+David,"Bayram Kebab House",3
+David,"Metropolis Lounge Bensheim",3
+David,"Rag Bar",3
+Michelle,"Fratelli Pizza Pasta Bar",3
+Michelle,"Doener Kebap",4
+John,"k'ties Petite France",4
+Austin,"Leib & Seele",4
+Leslie,"Enchilada Kassel",4
+Leslie,"Rottger",4
+James,"Casanostra",3
+James,"Zum Buchhugel",3
+James,"Odenwalder Bauernstube",3
+James,"Haller Ranch",4
+Brandy,"Hotel Rheinstein",4
+Brandy,"Luna Bar",2
+Stephanie,"Bella Mia",2
+Stephanie,"Pizzeria Albatros",2
+Stephanie,"Gaddezwersch",3
+Alexa,"China Restaurant Kaiser",4
+Alexa,"Lapp",4
+Savannah,"Restaurant Sonono",3
+Savannah,"Pizzeria Avanti",4
+Savannah,"Restaurante Raffaele",3
+Rodney,"The Edge",4
+Rodney,"Korea",4
+Elizabeth,"Mr. Thai Imbiss",4
+Elizabeth,"Locanda in der Alten Post Inh.Wolfgang Janke",3
+Elizabeth,"Felseneck",3
+Angela,"Lieferservice & Doneria la Cosa Nostra",4
+Caitlin,"Felseneck",4
+Caitlin,"Michel's Restaurant",2
+Caitlin,"Hooters American Sports Bar",3
+Tony,"Tor zum Rennsteig",2
+Tony,"Pizzeria Primavera",4
+Brendan,"Akropolis",3
+Brendan,"Gaststatte Riedbahnklause",4
+Brendan,"Brunnenwarterhaus",3
+Sarah,"Goldener Anker",3
+Sarah,"Wein Zeit",4
+Sarah,"Lieferservice & Doneria la Cosa Nostra",4
+Sarah,"Marktstube",4
+Rachael,"Dynastie Chinese Fastfood",4
+Rachael,"Turmschmiede",3
+Rachael,"Cubana",2
+Victoria,"Landgasthof Dorfschanke",3
+Victoria,"IN+ART INos+ARTos",3
+Victoria,"Pizzeria Bistro Leonardo",4
+Victoria,"Ratsschanke Wetzlar",2
+Christina,"Gaststatte Bosphorus",3
+Christina,"Gaststaette Oelgraben",3
+Christina,"Berghotel Hexentanzplatz",3
+Kathy,"Leonhards",4
+Kathy,"Alte Zollwache",3
+Kathy,"Strandperle Bistro and Bar",4
+Kathy,"Yam Yam",3
+Kathy,"Pizzeria Euro Doner",3
+Adam,"Korea",3
+Adam,"Land & Leute",4
+Adam,"Burg Cafe Restaurant",4
+Adam,"Sushi Bar Yokohama",4
+Nancy,"Zauberwald",4
+Nancy,"Sandwicher",4
+Nancy,"Gruner Baum",4
+Susan,"Zur Platane",4
+Susan,"Pizzeria Albatros",4
+Kara,"Alte Schule",4
+Kara,"Schlossterasssen",2
+Jeffrey,"Rottger",4
+Jeffrey,"Tadim",2
+Jeffrey,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",4
+Kyle,"La Terrazza",3
+Kyle,"Brunnenwarterhaus",3
+Carol,"Hellas Griechisches Restaurant",3
+Carol,"Gaststatte Krackhof",3
+Carol,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",3
+Terry,"Bauschemer Stubb'che",3
+Terry,"Leib & Seele",3
+Terry,"Zum Bizzenbachtal",3
+Sandra,"Tor zum Rennsteig",3
+Sandra,"Ratsschanke Wetzlar",2
+Sandra,"Alte Liebe",2
+Sandra,"Berghotel Hexentanzplatz",2
+Patrick,"Tong-Tong",3
+Cesar,"Doner-Pizzeria",2
+Cesar,"Burgklause",4
+Cesar,"Gutsschanke Schloss Johannisberg",4
+Daniel,"Stadtcafe Treppenstrasse GmbH",4
+Daniel,"Grohe",3
+Christian,"Donerhaus Dest",3
+George,"Dynastie Chinese Fastfood",4
+George,"Tijol",2
+Amanda,"Mr. Thai Imbiss",3
+Amanda,"Hollywood / Schacht Barbara",4
+Amanda,"Haller Ranch",3
+Amanda,"Kutschereck Griechische Spezialitaten",3
+Mark,"Pfefferkorn",2
+Mark,"Saftbar",4
+Victor,"Wetzlarer Hof",4
+Victor,"Burger Fahrhaus",3
+Victor,"Burg Cafe Restaurant",4
+Cassandra,"Jessler und Herbst",3
+Cassandra,"Eiscafe Bistro Milano",3
+Cassandra,"Gaststatte Bosphorus",2
+Cassandra,"Man Wah",3
+Michaela,"Ratsstuben Burgerhaus",3
+Michaela,"Zum Grauen Bock",2
+Michaela,"El-Rayyan",3
+Julie,"Akropolis",4
+Julie,"Hexenkessel",3
+Kristine,"Pizzeria Avanti",4
+Kristine,"Zur Staustufe",3
+Kristine,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",3
+Kristine,"Gaststatte Ross",2
+Kristine,"China Restaurant Kaiser",4
+Christine,"Super-Guru",3
+Christine,"Locanda in der Alten Post Inh.Wolfgang Janke",2
+Travis,"Miro's",4
+Kevin,"Maestro Schneider's - Jagdhotel Rose",3
+Janet,"Pizzeria Albatros",4
+Janet,"Burger Fahrhaus",3
+Janet,"Pizzeria Bistro Leonardo",4
+Janet,"Zum Bembelsche",3
+Jesse,"El-Rayyan",4
+Jesse,"Coffee Fellows",4
+Jesse,"Dschingis Khan Au Garden",2
+Brianna,"Goldener Anker",3
+Brianna,"Mr. Thai Imbiss",4
+Brianna,"Trattoria Promis",4
+Douglas,"Hollywood / Schacht Barbara",4
+Douglas,"Ginnheimer Wirtshaus",4
+Jonathon,"Da Gigi",2
+Jonathon,"Algarve",3
+Jonathon,"Rhodos",4
+Paul,"Asian Wok",2
+Paul,"Zum Stiftskammerer",4
+Paul,"Goldener Anker",4
+Christopher,"Bodega",2
+Christopher,"Schnitzelhaus Party- und Heimservice",4
+Christopher,"Restaurant Ganesha",4
+Christopher,"Pizza und Pasta Tonini",4
+Jeffery,"Pizzeria Milano",4
+Jeffery,"Drays Brauhaus Lorsch",3
+Jeffery,"Zum Buchhugel",2
+Charlene,"Pizza und Pasta Tonini",3
+Charlene,"Doner-Pizzeria",3
+Angelica,"Hellas Griechisches Restaurant",4
+Angelica,"Es Bembelsche, Strausswirtschaft Dey",4
+Angelica,"Saftbar",2
+Mitchell,"Zum Bizzenbachtal",3
+Mitchell,"Leib & Seele",3
+Mitchell,"Jessler und Herbst",3
+Jason,"Saftbar",4
+Jennifer,"Sonne Inh. Leubecher",3
+Jennifer,"Speisegaststatte Feldberg Gaststatten",3
+Jennifer,"Late Night Pizzeria",4
+Nicholas,"Brunnenwarterhaus",4
+Nicholas,"Gasthaus Sonne",2
+Nicholas,"Restaurante Raffaele",2
+Briana,"El-Rayyan",3
+Briana,"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria",2
+Briana,"Kutschereck Griechische Spezialitaten",3
+Briana,"Eulenpick",4
+Faith,"Donerhaus Dest",4
+Faith,"Goldener Hahn",4
+Melanie,"Bierbrunnen",4
+Melanie,"Miro's",4
+Melanie,"Casanostra",3
+Melanie,"Trattoria Promis",3
+Troy,"Donerhaus Dest",4
+Troy,"Gasthof zum Ulmenstein, Harald Trapp",4
+Troy,"Talk of the Town",4
+Andrew,"Gaststatte Bosphorus",4
+Andrew,"La Terrazza",2
+Tina,"Maestro Schneider's - Jagdhotel Rose",1
+Tina,"Hotel Rheinstein",3
+Tina,"Pizzeria Albatros",3
+Jose,"Talk of the Town",2
+Jose,"Eulenpick",4
+Vanessa,"Berghotel Hexentanzplatz",4
+Vanessa,"Down Under Pub",3
+Vanessa,"Borsch Anni Imbiss",4
+Yvette,"Papanova",3
+Yvette,"Ginnheimer Wirtshaus",4
+Yvette,"Ristorante Roma",3
+Brian,"La Terrazza",4
+Brian,"Schnitzelhaus Party- und Heimservice",4
+Brian,"Zum Bizzenbachtal",4
+Kathleen,"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria",3
+Juan,"Late Night Pizzeria",3
+Juan,"Odenwalder Bauernstube",3
+Megan,"Donerhaus Dest",3
+Megan,"Gasthof zum Ulmenstein, Harald Trapp",4
+Megan,"Yorgun",4
+Megan,"Gutsschanke Schloss Johannisberg",2
+Megan,"Coco",3
+Kayla,"Daga",4
+Kayla,"Drays Brauhaus Lorsch",2
+Kayla,"Manolya",2
+Roy,"Mainterrasse Hassia",4
+Roy,"Pizzeria Euro Doner",3
+Jacob,"Sandwicher",2
+Jacob,"Donerhaus Dest",3
+Jacob,"Kaffe Haus Madlen",3
+Carlos,"La Galleria",4
+Carlos,"Lapp",4
+Edwin,"Zauberwald",4
+Edwin,"Sushi Bar Yokohama",4
+Edwin,"Es Bembelsche, Strausswirtschaft Dey",4
+Morgan,"Burger Fahrhaus",3
+Morgan,"Kaffe Haus Madlen",3
+Morgan,"Pizza Hut",4
+Johnny,"Algarve",3
+Johnny,"Restaurant Sterkel",2
+Tammy,"Burg Cafe Restaurant",4
+Tammy,"Saftbar",3
+Tammy,"Land & Leute",4
+Tammy,"Alte Zollwache",4
+Melissa,"Burger King Oberhausen",4
+Melissa,"Die Kneipp",4
+Melissa,"Restaurant Ganesha",3
+Melissa,"Biancalani Cucina",4
+Melissa,"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM",4
+Kristi,"Buen Gusto",4
+Kristi,"Tor zum Rennsteig",4
+Kristi,"Ratsstube",4
+Kristi,"Gaststatte Ross",3
+Colleen,"Bierbrunnen",2
+Colleen,"Gosch Fisch-Bistro",2
+Colleen,"Spektrum",4
+Earl,"Asian Wok",3
+Earl,"Dschingis Khan Au Garden",2
+Earl,"Land & Leute",3
+Albert,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",2
+Albert,"Eisenberg-Hutte Korbach Goldhausen",2
+Chloe,"Talk of the Town",2
+Chloe,"Pizzeria Avanti",4
+Chloe,"Pizza-Haus Zicke",3
+Chloe,"Cafe Hilde",3
+Stacy,"Gasthof Altes Casino Restaurant",3
+Stacy,"Dschingis Khan Au Garden",1
+Stacy,"Burger Fahrhaus",3
+Martin,"Algarve",4
+Martin,"Asian Wok",2
+Martin,"Starbucks",4
+Luis,"Wein Zeit",3
+Luis,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",4
+Luis,"Restaurant Ganesha",2
+Luis,"Da Gigi",4
+Luis,"Metropolis Lounge Bensheim",3
+Mary,"Pizzeria Bistro Leonardo",3
+Mary,"Sandwicher",3
+Jake,"Muller Bistro",4
+Jake,"Odenwalder Bauernstube",3
+Jake,"Yang-Ji",3
+Larry,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",3
+Larry,"Goldener Anker",4
+Wyatt,"Burgklause",3
+Wyatt,"Melo",3
+Wyatt,"Kutschereck Griechische Spezialitaten",3
+Anne,"Spektrum",3
+Anne,"Goldener Hahn",3
+Anne,"Hooters American Sports Bar",3
+Anne,"Restaurant Feldbergblick",2
+Ashley,"Gosch Fisch-Bistro",2
+Ashley,"Landgasthof Dorfschanke",2
+Ashley,"Strandperle Bistro and Bar",3
+Diane,"Ristorante al dente da Pino",2
+Diane,"Alte Zollwache",4
+Paula,"Coco",4
+Paula,"Doner-Pizzeria",4
+Kimberly,"Pizzeria Santa Lucia",3
+Kimberly,"Grunsels Bornchen",3
+Bryan,"Ristorante Roma",4
+Bryan,"Gaststatte Riedbahnklause",3
+Bryan,"Brunnenwarterhaus",4
+Erica,"Castello Romano",3
+Erica,"Yam Yam",4
+Erica,"Leonhards",4
+Todd,"Taverne Kavala",1
+Jerry,"Donerhaus Dest",4
+Jerry,"Pizzeria Santa Lucia",3
+Christy,"Hexenkessel",4
+Christy,"Alex Skyline Plaza",2
+Christy,"Yang-Ji",4
+Amber,"China Restaurant Kaiser",2
+Amber,"Sandwicher",2
+Vicki,"Castello Romano",4
+Vicki,"Akropolis",3
+Collin,"Gasthof Adler",3
+Collin,"Dynastie Chinese Fastfood",4
+Collin,"Es Bembelsche, Strausswirtschaft Dey",4
+Collin,"Miro's",2
+Collin,"Hooters American Sports Bar",3
+Annette,"Gasthof Altes Casino Restaurant",3
+Annette,"Bodega",2
+Annette,"Burger King",3
+Annette,"Man Wah",4
+Jessica,"Burg Cafe Restaurant",2
+Jessica,"Ristorante Il Gan Localino",2
+Brenda,"Ristorante Roma",4
+Brenda,"Weingut Diefenhard",4
+Brenda,"Tadim",4
+Marie,"Yam Yam",3
+Marie,"Maestro Schneider's - Jagdhotel Rose",4
+Marie,"Drays Brauhaus Lorsch",3
+Marie,"La Galleria",3
+Catherine,"Rhodos",2
+Catherine,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",3
+Catherine,"Urfa Kebap Haus",4
+Catherine,"La",4
+Ashlee,"China Haus Chui, Kiet Zhanh",3
+Ashlee,"Sushi Bar Yokohama",4
+Ashlee,"Alte Schule",4
+Debra,"Ratsstube",4
+Debra,"Cafe Hilde",4
+Debra,"Satisfaction",4
+Wendy,"Pizzeria Primavera",2
+Danny,"Ratsschanke Wetzlar",4
+Danny,"Bomatscher Elb-Panoramagaststatte Und Pension",3
+Sheila,"Altes Sudhaus",3
+Sheila,"La",3
+Sheila,"Artemis Palace",4
+Sheila,"James Joyce Pub",4
+Sheila,"Grohe",3
+Suzanne,"Yorgun",3
+Suzanne,"Burger King",3
+Suzanne,"Hooters American Sports Bar",3
+Suzanne,"Neu Kong Fondue Restaurant",3
+Parker,"Hotel Adler",4
+Parker,"Yorgun",3
+Kelsey,"Pizzeria Avanti",2
+Kelsey,"Tadim",3
+Kelsey,"Ratsstube",4
+Kelsey,"Yang-Ji",3
+Gabriel,"The Edge",2
+Gabriel,"Kaffeemanufaktur Hirschhorn GmbH & Co KG",3
+Dale,"Kutschereck Griechische Spezialitaten",4
+Dale,"Tijol",3
+Dale,"Godenhouse Chinarestaurant",3
+Jill,"Zauberwald",2
+Jill,"Hansenhaus links",4
+Jill,"XO",4
+Ethan,"Gasthof zum Ulmenstein, Harald Trapp",3
+Ethan,"Late Night Pizzeria",3
+Ethan,"Bernemer Brunnchen",4
+Ethan,"Donerhaus Dest",3
+Ethan,"Pfeffer & Salz",3
+Emily,"Es Bembelsche, Strausswirtschaft Dey",3
+Emily,"Sandwicher",3
+Emily,"Leonhards",4
+Emily,"mauergasse",3
+Gary,"Trattoria Promis",3
+Gary,"James Joyce Pub",4
+Gary,"Pfeffer & Salz",3
+Gary,"Altes Sudhaus",3
+Matthew,"IN+ART INos+ARTos",3
+Matthew,"Pizzeria Avanti",4
+Matthew,"Ratsstube",4
+Matthew,"Rottger",4
+Jeff,"Qbar",3
+Jeff,"Astheimer Schlosschen",3
+Jeff,"La Galleria",3
+Jeff,"Weiherhaus",4
+Brittany,"Trattoria Promis",4
+Brittany,"Muller Bistro",3
+Dana,"Ristorante Il Gan Localino",3
+Dana,"Stadt Berlin",2
+Dana,"Akropolis",3
+Dana,"Trattoria Promis",3
+Ellen,"Rottger",4
+Ellen,"Artemis Palace",2
+Ellen,"Kaffeemanufaktur Hirschhorn GmbH & Co KG",3
+Ellen,"Burger King",2
+Ellen,"Tajinerie",3
+Joyce,"Om Shanti",2
+Joyce,"La Galleria",2
+Joyce,"Restaurant-Konoba "Zum Ritter"",3
+Zachary,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",4
+Zachary,"Maestro Schneider's - Jagdhotel Rose",2
+Jordan,"Eisenberg-Hutte Korbach Goldhausen",4
+Jordan,"Algarve",4
+Jordan,"Ginnheimer Wirtshaus",2
+Jordan,"Daga",4
+Jordan,"Ristorante Pizzeria Toscana",4
+Gabrielle,"Donerhaus Dest",4
+Gabrielle,"Gaddezwersch",2
+Gabrielle,"Ristorante Pizzeria Pierrot da Pino",2
+Jesus,"Brunnenwarterhaus",3
+Jesus,"Pfeffer & Salz",3
+Richard,"Lapp",4
+Richard,"Astheimer Schlosschen",2
+Richard,"Faselstall",4
+Richard,"Eisenberg-Hutte Korbach Goldhausen",2
+Richard,"Melo",4
+Meredith,"Restaurant Zum kleinen Italiener",4
+Meredith,"Schlossterasssen",4
+Bridget,"Alte Liebe",3
+Bridget,"Qbar",4
+Bridget,"Bockenheimer Stubb",4
+Sierra,"Kaffeemanufaktur Hirschhorn GmbH & Co KG",4
+Sierra,"Brunnenwarterhaus",2
+Sierra,"My Coffee Backshop",3
+Sierra,"Castello Romano",3
+Ryan,"Starbucks",3
+Ryan,"Hellas Griechisches Restaurant",3
+Ryan,"Bella Mia",2
+Natalie,"Pizzeria Amalfi",3
+Natalie,"Late Night Pizzeria",3
+Anna,"Eiscafe Bistro Milano",3
+Anna,"Ristorante al dente da Pino",3
+Anna,"Luna Bar",4
+Anna,"Restaurant Memory",3
+Bradley,"Man Wah",3
+Bradley,"Tijol",3
+Tyler,"Bockenheimer Stubb",1
+Tyler,"Asia Thai Imbiss am Zoo",3
+Tyler,"Spektrum",4
+Monica,"Om Shanti",3
+Monica,"Papanova",4
+Brooke,"Akropolis",4
+Brooke,"GSV Gundernhausen Helga Kaiser",2
+Brooke,"Zum Buchhugel",4
+Brooke,"Rag Bar",3
+Terri,"China Restaurant Kaiser",4
+Terri,"Akropolis",4
+Terri,"Kaffeemanufaktur Hirschhorn GmbH & Co KG",4
+Harry,"Burger King",3
+Harry,"Michel's Restaurant",4
+Harry,"Pfefferkorn",4
+Harry,"Hellas Griechisches Restaurant",4
+Scott,"Weiherhaus",4
+Scott,"Dynastie Chinese Fastfood",2
+Scott,"Ristorante al dente da Pino",3
+Scott,"Taverne Kavala",3
+Jeremiah,"Tadim",2
+Jeremiah,"Jessler und Herbst",4
+Jeremiah,"Gaststatte Riedbahnklause",4
+Tamara,"Urfa Kebap Haus",4
+Tamara,"Schnitzelhaus Party- und Heimservice",3
+Tamara,"Kaffe Haus Madlen",3
+Virginia,"Hotel Rheinstein",4
+Virginia,"Gaddezwersch",4
+Justin,"Rhodos",2
+Justin,"Down Under Pub",3
+Randy,"Restaurant Sonono",4
+Crystal,"Zur Platane",4
+Crystal,"China Restaurant Kaiser",4
+Heather,"Ratsstuben Burgerhaus",4
+Heather,"La Terrazza",3
+Heather,"Gaststaette Oelgraben",3
+William,"Jessler und Herbst",3
+William,"Sonne Inh. Leubecher",3
+Miguel,"Wollbacher Tor",4
+Miguel,"Taverne Kavala",4
+Miguel,"Rhodos",2
+Miguel,"Tong-Tong",4
+Craig,"Gaststaette Oelgraben",3
+Craig,"Berghotel Hexentanzplatz",3
+Craig,"Haller Ranch",4
+Craig,"Asia Thai Imbiss am Zoo",3
+Alyssa,"Wein Zeit",2
+Alyssa,"Gaststaette Oelgraben",4
+Casey,"Yam Yam",4
+Casey,"La",4
+Casey,"Ristorante Pizzeria Toscana",3
+Casey,"Pizza und Pasta Tonini",3
+Luke,"Grunsels Bornchen",4
+Luke,"Pizzeria Santa Lucia",3
+Desiree,"Neu Kong Fondue Restaurant",4
+Desiree,"Gasthof Altes Casino Restaurant",4
+Sheri,"Gaststatte Riedbahnklause",4
+Sheri,"Hooters American Sports Bar",4
+Sheri,"Es Bembelsche, Strausswirtschaft Dey",3
+Bobby,"Gargantua",4
+Bobby,"James Joyce Pub",3
+Reginald,"Lapp",3
+Reginald,"Ristorante Il Gan Localino",3
+Reginald,"Korea",4
+Reginald,"Faselstall",2
+Willie,"Eiscafe Bistro Milano",4
+Willie,"My Coffee Backshop",4
+Willie,"Korea",3
+Willie,"Pizzeria Bistro Leonardo",3
+Sherry,"Weiberwirtschaft",2
+Sherry,"Ginnheimer Wirtshaus",3
+Kristen,"XO",3
+Kristen,"Gutsschanke Schloss Johannisberg",4
+Kristen,"Altes Sudhaus",3
+Jeremy,"Pizzeria Euro Doner",2
+Jeremy,"Gasthof Adler",3
+Jeremy,"Melo",3
+Jeremy,"Hansenhaus links",4
+Carmen,"Metropolis Lounge Bensheim",4
+Carmen,"Zum Spitzer",4
+Connor,"Gaststatte Ross",3
+Connor,"Muller Bistro",4
+Connor,"Landhaus Furstengarten",4
+Connor,"Zum Bizzenbachtal",4
+Noah,"Speisegaststatte Feldberg Gaststatten",3
+Noah,"Eiscafe Rialto",2
+Noah,"Restaurant Memory",3
+Noah,"Schlossterasssen",3
+Blake,"Locanda in der Alten Post Inh.Wolfgang Janke",3
+Blake,"Gruner Baum",2
+Blake,"Ristorante Pizzeria Toscana",4
+Blake,"Gaststatte Bosphorus",3
+Meagan,"Zum Heidekuppel",3
+Meagan,"Bomatscher Elb-Panoramagaststatte Und Pension",3
+Meagan,"Altes Sudhaus",4
+Dylan,"Pizzeria Milano",4
+Dylan,"Eiscafe Bistro Milano",4
+Dylan,"Adel.es Restaurant",4
+Cody,"Om Shanti",3
+Ann,"Restaurant Feldbergblick",3
+Ann,"Pizzeria Triangolo",3
+Ann,"Jessler und Herbst",3
+Thomas,"Dschingis Khan Au Garden",4
+Thomas,"Hotel Rheinstein",1
+Thomas,"Wolfgangs",4
+Thomas,"Taverne Kavala",4
+Andrea,"Yam Yam",3
+Andrea,"Sushi Bar Yokohama",3
+Andrea,"Pik-Dame",3
+Andrea,"Man Wah",2
+Andrea,"Doener Kebap",2
+Tara,"Jessler und Herbst",3
+Tara,"Donerhaus Dest",3
+Tara,"Bierbrunnen",4
+Tara,"Zum Spitzer",3
+Tracy,"Gaststatte Riedbahnklause",4
+Tracy,"Zum Grauen Bock",4
+Tracy,"Casanostra",3
+Tracy,"Restaurant Memory",4
+Tracy,"Man Wah",4
+Katherine,"Alte Schule",3
+Katherine,"Gosch Fisch-Bistro",2
+Katherine,"Spektrum",4
+Jenna,"Wetzlarer Hof",2
+Jenna,"Kaffe Haus Madlen",3
+Jenna,"Gaststatte Riedbahnklause",4
+Dennis,"Mogks Bierstubb",4
+Dennis,"Burgklause",4
+Dennis,"Faselstall",4
+Lance,"Weiberwirtschaft",4
+Lance,"Satisfaction",3
+Joy,"Pizzeria Milano",4
+Joy,"Rhodos",2
+Joy,"Hotel Adler",3
+Joy,"Jessler und Herbst",2
+Heidi,"Mr. Thai Imbiss",4
+Heidi,"XO",4
+Heidi,"El-Rayyan",2
+Heidi,"Zur frischen Quelle",3
+Joel,"Zum Buchhugel",1
+Joel,"Pfeffer & Salz",4
+Brandi,"La Terrazza",3
+Brandi,"Mainterrasse Hassia",2
+Autumn,"Eulenpick",4
+Autumn,"Pfefferkorn",4
+Autumn,"Mogks Bierstubb",3
+Glen,"Pizzeria Albatros",3
+Glen,"Ratsschanke Wetzlar",2
+Glen,"Restaurant Ganesha",3
+Glen,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",2
+Jack,"Pfefferkorn",4
+Jack,"Sonne Inh. Leubecher",3
+Jack,"Gaddezwersch",4
+Hailey,"Pfefferkorn",4
+Hailey,"Burger King",2
+Laura,"Ginnheimer Wirtshaus",4
+Allison,"Weiberwirtschaft",4
+Allison,"Tor zum Rennsteig",2
+Allison,"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM",3
+Mathew,"Down Under Pub",4
+Nathan,"Rag Bar",3
+Nathan,"Donerhaus Dest",4
+Nathan,"Land & Leute",4
+Randall,"Brunnenwarterhaus",4
+Randall,"China Restaurant Kaiser",3
+Bill,"El-Rayyan",3
+Phillip,"Late Night Pizzeria",3
+Phillip,"Alte Zollwache",3
+Phillip,"Donerhaus Dest",3
+Phillip,"Pfeffer & Salz",4
+Eric,"Neu Kong Fondue Restaurant",2
+Eric,"Schnitzelhaus Party- und Heimservice",2
+Eric,"Altes Sudhaus",1
+Eric,"Pizza-Haus Zicke",2
+Curtis,"Brunnenwarterhaus",3
+Curtis,"Ginnheimer Wirtshaus",2
+Curtis,"Altes Sudhaus",4
+Curtis,"Zauberwald",4
+Madison,"Restaurant Hotel Bessunger Forst",4
+Madison,"Jessler und Herbst",4
+Bonnie,"Maestro Schneider's - Jagdhotel Rose",3
+Bonnie,"Grohe",3
+Bonnie,"Pizzeria Forum Galati",4
+Bonnie,"Inspektorenhaus",3
+Lee,"Grohe",3
+Margaret,"Burger Fahrhaus",3
+Margaret,"Zum Bizzenbachtal",2
+Charles,"Late Night Pizzeria",4
+Charles,"Gasthof zum Ulmenstein, Harald Trapp",4
+Charles,"Strandperle Bistro and Bar",3
+Betty,"Metropolis Lounge Bensheim",4
+Betty,"Zum Buchhugel",2
+Betty,"Pizzeria Milano",2
+Betty,"Il Brigantino da Francesco",3
+Karen,"Satisfaction",4
+Karen,"Locanda in der Alten Post Inh.Wolfgang Janke",3
+Karen,"Landgasthof Dorfschanke",4
+Tracey,"Burgklause",3
+Tracey,"Pizzeria Bistro Leonardo",3
+Tracey,"Muller Bistro",3
+Tracey,"Papanova",3
+Jim,"Restaurant Zum kleinen Italiener",2
+Jim,"Pizza Hut",4
+Jim,"Goldener Hahn",4
+Melinda,"My Coffee Backshop",4
+Melinda,"Sandwicher",3
+Melinda,"RISTORANTE BELLA VISTA IN WI-KLOPPENHEIM",4
+Vincent,"Pizzeria Triangolo",3
+Vincent,"Tor zum Rennsteig",4
+Vincent,"Grand Cru",3
+Belinda,"Ristorante Pizzeria Pierrot da Pino",4
+Belinda,"Zauberwald",3
+Jared,"Eisenberg-Hutte Korbach Goldhausen",4
+Jared,"Taverne Kavala",4
+Rose,"Zum Stiftskammerer",4
+Rose,"Maestro Schneider's - Jagdhotel Rose",3
+Rose,"Akebono",4
+Rose,"Felseneck",4
+Wesley,"Godenhouse Chinarestaurant",3
+Wesley,"Zum Buchhugel",4
+Wesley,"Kaffeemanufaktur Hirschhorn GmbH & Co KG",4
+Wesley,"Mainterrasse Hassia",2
+Wesley,"Inspektorenhaus",2
+Misty,"Alte Schule",4
+Micheal,"Zum Bembelsche",4
+Micheal,"Tadim",3
+Micheal,"Zur Ziegelhuette",3
+Carrie,"Man Wah",4
+Carrie,"Doener Kebap",2
+Carrie,"Wollbacher Tor",3
+Franklin,"Yang-Ji",3
+Franklin,"Luna Bar",3
+Franklin,"Burg Cafe Restaurant",4
+Russell,"La Terrazza",3
+Russell,"Melo",3
+Russell,"Turmschmiede",2
+Russell,"Burger King",3
+Molly,"Gosch Fisch-Bistro",3
+Molly,"Eisenberg-Hutte Korbach Goldhausen",3
+Molly,"Zur Ziegelhuette",4
+Molly,"Taverne Kavala",3
+Alexandra,"Artemis Palace",4
+Alexandra,"Sachers Cafe Alte Munz",4
+Alexandra,"Saftbar",3
+Carolyn,"Kutschereck Griechische Spezialitaten",4
+Carolyn,"El-Rayyan",3
+Carolyn,"Wolfgangs",4
+Kelli,"China Restaurant Kaiser",4
+Kelli,"Bauschemer Stubb'che",2
+Alan,"Tajinerie",3
+Alan,"Alte Liebe",4
+Alan,"Zum Lowen",3
+Alan,"Zum Buchhugel",3
+Alan,"Landgasthof Dorfschanke",2
+Shawn,"Zur Platane",3
+Shawn,"Altes Sudhaus",3
+Shawn,"China Restaurant Kaiser",3
+Cassie,"Cafe Hilde",4
+Cassie,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",4
+Cassie,"Algarve",3
+Maria,"Hexenkessel",2
+Maria,"Es Bembelsche, Strausswirtschaft Dey",4
+Maria,"Gasthof zum Ulmenstein, Harald Trapp",4
+Maria,"Gaststatte Krackhof",4
+Devin,"Strandperle Bistro and Bar",4
+Devin,"Speisegaststatte Feldberg Gaststatten",2
+Devin,"mauergasse",4
+Devin,"Pizzeria Carlo",3
+Ricky,"Ristorante Pizzeria Pierrot da Pino",4
+Ricky,"Restaurant Feldbergblick",4
+Ricky,"Starbucks",4
+Kaitlyn,"Little Tokyo",4
+Kaitlyn,"Yang-Ji",4
+Sandy,"Starbucks",4
+Sandy,"Faselstall",4
+Cathy,"Pizzeria Albatros",4
+Cathy,"Hansenhaus links",4
+Cathy,"Rottger",3
+Caroline,"Down Under Pub",3
+Caroline,"Neu Kong Fondue Restaurant",3
+Caroline,"Lapp",1
+Natasha,"Bockenheimer Stubb",1
+Natasha,"Bierbrunnen",4
+Diana,"Mainterrasse Hassia",3
+Diana,"Ristorante al dente da Pino",3
+Diana,"Eisenberg-Hutte Korbach Goldhausen",4
+Diana,"Land & Leute",3
+Derek,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",4
+Derek,"Burgklause",4
+Charlotte,"Restaurante Raffaele",3
+Charlotte,"GSV Gundernhausen Helga Kaiser",3
+Lucas,"Ratsstube",4
+Lucas,"Hotel Rheinstein",4
+Lucas,"Cubana",4
+Patty,"Pik-Dame",2
+Patty,"Restaurant Sterkel",2
+Patty,"Landhaus Furstengarten",3
+Patty,"Restaurant-Konoba "Zum Ritter"",3
+Katrina,"Langenschwalbacher Schlemmer & Kultur Station",4
+Katrina,"Zum Lowen",4
+Katrina,"Rottger",3
+Katrina,"Cubana",4
+Alexander,"Alte Zollwache",3
+Alexander,"Bauschemer Stubb'che",3
+Alexander,"Gosch Fisch-Bistro",3
+Alexander,"Daga",4
+Ray,"The Edge",3
+Ray,"Zweite Heimat",3
+Ray,"Korea",4
+Ray,"Bernemer Brunnchen",4
+Whitney,"Restaurant Memory",4
+Whitney,"Buen Gusto",3
+Whitney,"Pizza und Pasta Tonini",4
+April,"Melo",3
+April,"Trattoria Promis",4
+April,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",4
+April,"Pizzeria Bistro Leonardo",3
+April,"Langenschwalbacher Schlemmer & Kultur Station",3
+Jon,"Melo",3
+Jon,"Korea",4
+Jon,"Pizzeria I-tre Fratelli",4
+Patricia,"Hellas Griechisches Restaurant",3
+Patricia,"Sonne Inh. Leubecher",2
+Patricia,"Rottger",3
+Wanda,"IN+ART INos+ARTos",3
+Wanda,"Down Under Pub",4
+Wanda,"Bomatscher Elb-Panoramagaststatte Und Pension",2
+Wanda,"Gaststatte Riedbahnklause",3
+Ronald,"Schlossterasssen",4
+Ronald,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",3
+Ronald,"Cubana",4
+Lydia,"Mr. Thai Imbiss",3
+Lydia,"Restaurant Ganesha",4
+Lydia,"Bauschemer Stubb'che",4
+Lydia,"Restaurant Sterkel",2
+Lydia,"La",2
+Sharon,"Speisegaststatte Feldberg Gaststatten",3
+Sharon,"Taverne Kavala",3
+Carla,"Gaststatte Bosphorus",4
+Carla,"Goldener Anker",3
+Carla,"Leonhards",4
+Carla,"Tajinerie",4
+Omar,"Bierbrunnen",3
+Omar,"Rhodos",3
+Erik,"Weiherhaus",4
+Erik,"Bodega",2
+Erik,"Luna Bar",2
+Erik,"Sushi Bar Yokohama",4
+Erik,"Tor zum Rennsteig",4
+Donald,"Korea",3
+Donald,"Restaurant Sonono",4
+Jacqueline,"La Galleria",3
+Jacqueline,"Wetzlarer Hof",4
+Don,"China Haus Chui, Kiet Zhanh",2
+Gina,"Dschingis Khan Au Garden",4
+Gina,"Asian Wok",4
+Fernando,"Pizzeria Bistro Leonardo",4
+Fernando,"Landhaus Furstengarten",2
+Adrienne,"Asian Wok",3
+Adrienne,"Rhodos",4
+Adrienne,"Restaurant-Konoba "Zum Ritter"",3
+Adrienne,"Maestro Schneider's - Jagdhotel Rose",3
+Alexis,"Hansenhaus links",1
+Alexis,"China Haus Chui, Kiet Zhanh",4
+Alexis,"Pizzeria Carlo",4
+Alexis,"Metropolis Lounge Bensheim",3
+Marcus,"Trattoria la Grappa",4
+Marcus,"Grunsels Bornchen",4
+Yvonne,"Urfa Kebap Haus",4
+Hannah,"GSV Gundernhausen Helga Kaiser",4
+Hannah,"Hooters American Sports Bar",3
+Hannah,"Die Kneipp",4
+Hannah,"Tadim",4
+Clinton,"Pizzeria Avanti",4
+Clinton,"Weingut Diefenhard",3
+Clinton,"Algarve",1
+Clinton,"Mr. Thai Imbiss",4
+Yesenia,"Muckenwirt",3
+Yesenia,"Buen Gusto",4
+Yesenia,"Enchilada Kassel",4
+Yesenia,"Donerhaus Dest",4
+Donna,"Coffee Fellows",3
+Donna,"Bodega",4
+Donna,"Burgklause",4
+Denise,"Astheimer Schlosschen",1
+Kathryn,"Tajinerie",4
+Kathryn,"Lesecafe",3
+Kathryn,"Wolfgangs",3
+Kathryn,"Restaurant Sterkel",4
+Ruth,"Maestro Schneider's - Jagdhotel Rose",2
+Ruth,"mauergasse",4
+Ruth,"Stadt Berlin",4
+Ruth,"Gasthaus Sonne",3
+Lori,"Restaurant-Konoba "Zum Ritter"",4
+Lori,"Gasthof zum Ulmenstein, Harald Trapp",2
+Lori,"Pizza-Haus Zicke",4
+Candace,"El-Rayyan",4
+Candace,"Wolfgangs",3
+Candace,"XO",3
+Candace,"Wetzlarer Hof",3
+Candace,"Stadtcafe Treppenstrasse GmbH",3
+Jay,"Sushi Bar Yokohama",2
+Jay,"Bayram Kebab House",3
+Samuel,"Speisegaststatte Feldberg Gaststatten",4
+Samuel,"Enchilada Kassel",4
+Carl,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",3
+Carl,"Restaurant Ganesha",2
+Carl,"Langenschwalbacher Schlemmer & Kultur Station",2
+Carl,"Papanova",3
+Frances,"Super-Guru",1
+Frances,"Pizzeria Bistro Leonardo",4
+Frances,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",4
+Terrance,"Restaurant Memory",2
+Terrance,"Daga",3
+Terrance,"Gasthaus Sonne",3
+Terrance,"Maestro Schneider's - Jagdhotel Rose",2
+Terrance,"Rhodos",3
+Theresa,"Burgerstuben",3
+Cheryl,"Enchilada Kassel",4
+Cheryl,"Die Kneipp",2
+Cheryl,"XO",1
+Cheryl,"El-Rayyan",2
+Latoya,"Tadim",4
+Latoya,"Restaurant Hotel Bessunger Forst",4
+Latoya,"Restaurant Sterkel",4
+Latoya,"La",4
+Latoya,"Algarve",3
+Raymond,"Zur frischen Quelle",2
+Raymond,"Gaststaette Oelgraben",4
+Raymond,"Hooters American Sports Bar",4
+Raymond,"Lesecafe",3
+Marilyn,"Ristorante l'Aperitivo. Win bar coffe bar lounge bar pizzeria",3
+Marilyn,"Donerhaus Dest",4
+Marilyn,"Fratelli Pizza Pasta Bar",4
+Marilyn,"Hotel Rheinstein",3
+Leonard,"Sachers Cafe Alte Munz",3
+Leonard,"Sandwicher",4
+Leonard,"Kaffe Haus Madlen",3
+Jorge,"Gaststatte Riedbahnklause",4
+Jorge,"Speisegaststatte Feldberg Gaststatten",4
+Jorge,"Faselstall",4
+Jorge,"Gaststatte Krackhof",3
+Andre,"Zur frischen Quelle",1
+Cynthia,"Pizzeria Forum Galati",3
+Cynthia,"Gaststatte Riedbahnklause",4
+Barbara,"IN+ART INos+ARTos",4
+Barbara,"Godenhouse Chinarestaurant",3
+Clayton,"Mainterrasse Hassia",3
+Clayton,"Zur Staustufe",4
+Clayton,"Muckenwirt",4
+Norman,"Starbucks",3
+Norman,"Gosch Fisch-Bistro",3
+Norman,"Zum Lowen",3
+Danielle,"Brunnenwarterhaus",4
+Greg,"Hansenhaus links",4
+Greg,"Artemis Palace",2
+Greg,"Restaurant Sonono",2
+Francisco,"China Haus Chui, Kiet Zhanh",3
+Francisco,"Pizza und Pasta Tonini",3
+Francisco,"Altes Sudhaus",3
+Dakota,"Leonhards",3
+Dakota,"Restaurant Zum kleinen Italiener",3
+Louis,"Il Brigantino da Francesco",4
+Louis,"Man Wah",4
+Louis,"Locanda in der Alten Post Inh.Wolfgang Janke",3
+Keith,"Restaurant Sterkel",3
+Keith,"Saftbar",4
+Keith,"Bauschemer Stubb'che",4
+Keith,"Athos Inh. Andreas Nikolaou Griechisches Restaurante",4
+Pamela,"James Joyce Pub",2
+Pamela,"Little Tokyo",3
+Pamela,"Bomatscher Elb-Panoramagaststatte Und Pension",3
+Pamela,"Eulenpick",3
+Lynn,"Akebono",4
+Lynn,"Restaurant Memory",3
+Lynn,"Biancalani Cucina",4
+Lynn,"Trattoria Promis",4
+Kylie,"Dschingis Khan Au Garden",4
+Sherri,"Alte Schule",3
+Sherri,"Leonhards",3
+Robin,"Bernemer Brunnchen",3
+Robin,"Pizzeria Albatros",4
+Robin,"Adel.es Restaurant",4
+Robin,"Alte Zollwache",3
+Kristin,"Asia Thai Imbiss am Zoo",3
+Kristin,"Eulenpick",4
+Kristin,"Fratelli Pizza Pasta Bar",3
+Claire,"Lapp",3
+Claire,"Bierbrunnen",4
+Claire,"El-Rayyan",3
+Claire,"Gasthof Adler",3
+Veronica,"Dynastie Chinese Fastfood",2
+Veronica,"Pizzeria Milano",4
+Veronica,"China Restaurant Kaiser",4
+Sabrina,"Casanostra",4
+Sabrina,"Yang-Ji",3
+Sabrina,"Ristorante Pizzeria Toscana",4
+Sabrina,"Manolya",4
+Dean,"Pizzeria Party",3
+Maurice,"Pizza und Pasta Tonini",4
+Maurice,"Da Gigi",2
+Maurice,"Man Wah",2
+Maurice,"Pizzeria Primavera",2
+Deanna,"Burg Cafe Restaurant",4
+Deanna,"Muller Bistro",4
+Deanna,"Hooters American Sports Bar",3
+Kristina,"Casanostra",3
+Kristina,"Restaurant Zum kleinen Italiener",3
+Kristina,"Gaststatte Metzger",4
+Kristina,"Bierbrunnen",3
+Alicia,"Coco",2
+Alicia,"Hollywood / Schacht Barbara",4
+Alicia,"Tijol",2
+Chad,"Il Brigantino da Francesco",3
+Chad,"Burgerstuben",2
+Chad,"Gasthof Adler",3
+Teresa,"Zweite Heimat",3
+Teresa,"Bauschemer Stubb'che",4
+Teresa,"Pik-Dame",4
+Teresa,"Landgasthof Dorfschanke",4
+Phyllis,"Odenwalder Bauernstube",3
+Chris,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",3
+Chris,"Landhaus Furstengarten",1
+Chris,"Luna Bar",3
+Seth,"Zweite Heimat",3
+Nathaniel,"Yours Australian Bar",3
+Nathaniel,"Goldener Anker",4
+Nathaniel,"Strandperle Bistro and Bar",2
+Nathaniel,"Gaststatte Metzger",4
+Sydney,"Da Gigi",4
+Sydney,"Restaurant Sonono",3
+Sydney,"Ristorante Pizzeria Toscana",4
+Erin,"Neu Kong Fondue Restaurant",3
+Erin,"Land & Leute",4
+Nichole,"Weiherhaus",3
+Nichole,"Odenwalder Bauernstube",3
+Edward,"La",3
+Darrell,"Doener Kebap",3
+Darrell,"Wollbacher Tor",4
+Darrell,"Man Wah",4
+Janice,"Ginnheimer Wirtshaus",4
+Janice,"Restaurante Raffaele",4
+Janice,"Urfa Kebap Haus",3
+Benjamin,"Cafe Hilde",4
+Benjamin,"Doener Kebap",3
+Benjamin,"Burg Cafe Restaurant",3
+Jo,"Pizzeria Primavera",3
+Jo,"Lapp",4
+Jo,"Zur Staustufe",3
+Jo,"China Restaurant Kaiser",4
+Jo,"Wein Zeit",4
+Jimmy,"Tajinerie",4
+Jimmy,"Gasthof Altes Casino Restaurant",3
+Jimmy,"Casanostra",2
+Audrey,"Restaurant Sonono",4
+Audrey,"The Edge",4
+Ian,"Gaststatte Riedbahnklause",3
+Ian,"Gutsschanke Schloss Johannisberg",2
+Ian,"Landhaus Furstengarten",4
+Ian,"Ratsschanke Wetzlar",4
+Mario,"Restaurant Memory",4
+Mario,"Godenhouse Chinarestaurant",4
+Mario,"Miro's",4
+Mario,"Biancalani Cucina",2
+Cindy,"Tijol",4
+Cindy,"Ginnheimer Wirtshaus",3
+Trevor,"Rhodos",3
+Trevor,"Bomatscher Elb-Panoramagaststatte Und Pension",4
+Jasmine,"Mr. Thai Imbiss",4
+Jasmine,"Asia Thai Imbiss am Zoo",3
+Jasmine,"Papanova",3
+Jasmine,"Da Gigi",3
+Shannon,"Enchilada Kassel",3
+Shannon,"Hexenkessel",3
+Shannon,"Burger King",2
+Shannon,"Grohe",2
+Edgar,"Super-Guru",3
+Brad,"Pizza-Haus Zicke",3
+Brad,"Eulenpick",4
+Brad,"Zum Spitzer",3
+Summer,"Restaurant Feldbergblick",4
+Summer,"Pizza und Pasta Tonini",4
+Angel,"Gasthof zum Ulmenstein, Harald Trapp",3
+Lindsey,"Marktstube",2
+Lindsey,"Mogks Bierstubb",3
+Renee,"Grohe",1
+Renee,"Restaurant Sonono",2
+Renee,"Ristorante Pizzeria Pierrot da Pino",3
+Renee,"XO",4
+Calvin,"Artemis Palace",4
+Calvin,"Tadim",2
+Calvin,"Bockenheimer Stubb",4
+Calvin,"Ratsstube",3
+Sara,"Bistro 1904 am Hotel Kurfurst Wilhelm I.",3
+Sara,"Rhodos",2
+Sara,"Leib & Seele",4
+Marc,"Rottger",4
+Marc,"Leib & Seele",1
+Frederick,"Restaurant Sterkel",2
+Frederick,"Cubana",2
+Frederick,"Pik-Dame",4
+Frederick,"Zum Bizzenbachtal",4
+Madeline,"Ristorante Pizzeria Toscana",3
+Madeline,"Landgasthof am Brunnen Inh. Harald Knobel",3
+Brittney,"La Galleria",4
+Brittney,"Man Wah",4
+Brittney,"McDonald's",3
+Brittney,"Yam Yam",4
+Brittney,"Restaurant Zum kleinen Italiener",4
+Dominique,"Restaurant-Konoba "Zum Ritter"",3
+Dominique,"Gosch Fisch-Bistro",3
+Tristan,"Sonne Inh. Leubecher",2
+Tristan,"Kaffeemanufaktur Hirschhorn GmbH & Co KG",4
+Latasha,"Eiscafe Bistro Milano",2
+Latasha,"Zum Bembelsche",2
+Latasha,"Eulenpick",3
+Latasha,"Qbar",4
+Latasha,"Pizzeria Bistro Leonardo",3
+Arthur,"Zur Platane",4
+Arthur,"Enchilada Kassel",4
+Rita,"GSV Gundernhausen Helga Kaiser",3
+Rita,"Restaurant Zum kleinen Italiener",2
+Rita,"Altes Sudhaus",2
+Rita,"Bauschemer Stubb'che",4
+Rita,"IN+ART INos+ARTos",2
+Laurie,"Pizzeria Santa Lucia",4
+Judith,"Doener Kebap",4
+Judith,"Pizzeria Avanti",2
+Judith,"Gaststatte Krackhof",4
+Judith,"Pik-Dame",4
+Leah,"Biancalani Cucina",4
+Leah,"Pizzeria Carlo",4
+Leah,"Schlossterasssen",4
+Leah,"Pizza-Haus Zicke",4
+Debra,"James Joyce Pub",2
+Bobby,"Satisfaction",3
+Roger,"Pizzeria Amalfi",5
+Julia,"XO",4
+Julia,"Coco",2
+Gregory,"Gaststatte Ross",3
+Eve,"Pik-Dame",2
+Eve,"Gaststatte Metzger",5
+Eve,"My Coffee Backshop",4

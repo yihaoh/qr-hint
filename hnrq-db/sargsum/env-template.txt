@@ -1,0 +1,2 @@
+CONTAINER_USER=your_login
+CONTAINER_PASS=your_password

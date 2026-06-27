@@ -1,0 +1,33 @@
+services:
+
+  postgres:
+    build:
+      context: docker/postgres
+      dockerfile: Dockerfile
+      args:
+        - USER=${CONTAINER_USER}
+        - GROUP=${CONTAINER_USER}
+        - PASSWD=${CONTAINER_PASS}
+    environment:
+      TZ: "America/New_York"
+      PGTZ: "America/New_York"
+      POSTGRES_INITDB_ARGS: "--encoding=UTF-8"
+      POSTGRES_USER: ${CONTAINER_USER}
+      POSTGRES_PASSWORD: ${CONTAINER_PASS}
+      PG_DATA: /var/lib/postgresql/data
+    volumes:
+      # - ./docker/postgres/postgresql.conf:/etc/postgresql/postgresql.conf
+      - postgres-data:/var/lib/postgresql/data
+      - home-data:/home/${CONTAINER_USER}
+      - type: bind
+        source: ./
+        target: /home/${CONTAINER_USER}/shared
+        # do NOT make target the home directory because
+        # setup will write into it before bind takes effect
+    ports:
+      - 5432
+        # use "5432:5432" if you want to expose the port
+
+volumes:
+  home-data:
+  postgres-data:
